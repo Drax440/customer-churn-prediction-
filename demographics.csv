@@ -1,0 +1,3001 @@
+customerID,Region,IncomeGroup,Age,Education
+CUST00000,South,Low,57,High School
+CUST00001,North,High,55,High School
+CUST00002,East,Medium,55,Bachelors
+CUST00003,West,Medium,18,High School
+CUST00004,North,Medium,65,Bachelors
+CUST00005,East,Low,35,Masters
+CUST00006,South,Low,52,PhD
+CUST00007,South,High,24,PhD
+CUST00008,South,Low,61,Masters
+CUST00009,North,Low,59,Bachelors
+CUST00010,North,Medium,39,Bachelors
+CUST00011,South,Low,70,Masters
+CUST00012,South,Medium,42,High School
+CUST00013,East,Medium,59,High School
+CUST00014,West,High,40,High School
+CUST00015,East,Low,26,Masters
+CUST00016,West,Low,44,PhD
+CUST00017,North,Medium,28,PhD
+CUST00018,East,Low,68,PhD
+CUST00019,North,Medium,44,Bachelors
+CUST00020,North,Medium,57,Masters
+CUST00021,West,Medium,45,High School
+CUST00022,West,Medium,74,PhD
+CUST00023,East,Low,35,PhD
+CUST00024,East,Medium,53,PhD
+CUST00025,East,Low,51,Bachelors
+CUST00026,West,High,30,Bachelors
+CUST00027,South,Low,72,High School
+CUST00028,South,Medium,63,PhD
+CUST00029,West,Medium,69,PhD
+CUST00030,East,Low,47,PhD
+CUST00031,South,Medium,45,Bachelors
+CUST00032,North,Low,39,High School
+CUST00033,South,Low,41,Masters
+CUST00034,South,Low,64,Bachelors
+CUST00035,West,High,47,PhD
+CUST00036,West,Low,62,High School
+CUST00037,South,High,55,High School
+CUST00038,North,Low,37,Masters
+CUST00039,North,Medium,23,PhD
+CUST00040,East,High,50,Bachelors
+CUST00041,South,High,64,Bachelors
+CUST00042,South,Low,55,Bachelors
+CUST00043,North,Medium,32,PhD
+CUST00044,West,Low,32,PhD
+CUST00045,South,Low,49,PhD
+CUST00046,North,Medium,31,Bachelors
+CUST00047,South,Low,59,PhD
+CUST00048,West,Low,25,PhD
+CUST00049,East,Low,53,PhD
+CUST00050,West,Low,74,Masters
+CUST00051,West,Low,39,Masters
+CUST00052,North,High,55,PhD
+CUST00053,North,Low,37,PhD
+CUST00054,West,Medium,41,Bachelors
+CUST00055,North,Medium,38,High School
+CUST00056,West,Medium,45,PhD
+CUST00057,West,Medium,66,Bachelors
+CUST00058,South,Medium,40,Bachelors
+CUST00059,West,Medium,41,High School
+CUST00060,East,Low,71,Bachelors
+CUST00061,North,High,56,High School
+CUST00062,East,High,61,PhD
+CUST00063,North,Medium,40,Masters
+CUST00064,West,Low,21,High School
+CUST00065,East,Medium,63,PhD
+CUST00066,South,Medium,21,PhD
+CUST00067,West,Medium,47,Masters
+CUST00068,West,Medium,65,Bachelors
+CUST00069,West,Medium,45,High School
+CUST00070,South,Medium,48,High School
+CUST00071,East,Low,50,Bachelors
+CUST00072,West,Medium,67,Masters
+CUST00073,East,Low,36,High School
+CUST00074,West,Medium,70,High School
+CUST00075,West,Low,27,Bachelors
+CUST00076,West,Low,42,PhD
+CUST00077,South,Low,54,Masters
+CUST00078,West,High,30,PhD
+CUST00079,East,Medium,23,PhD
+CUST00080,West,Low,47,Bachelors
+CUST00081,East,Medium,40,High School
+CUST00082,East,Medium,53,Bachelors
+CUST00083,North,Medium,33,PhD
+CUST00084,East,Medium,25,Bachelors
+CUST00085,North,Low,33,Masters
+CUST00086,South,Low,28,PhD
+CUST00087,West,Low,71,PhD
+CUST00088,South,Medium,18,Masters
+CUST00089,South,Low,39,Bachelors
+CUST00090,East,Medium,35,Bachelors
+CUST00091,West,Low,53,Bachelors
+CUST00092,West,Low,28,High School
+CUST00093,South,High,37,PhD
+CUST00094,North,High,27,Masters
+CUST00095,North,Low,65,PhD
+CUST00096,East,Medium,27,High School
+CUST00097,North,Medium,54,PhD
+CUST00098,North,Medium,67,Masters
+CUST00099,South,Low,39,Masters
+CUST00100,North,Low,28,PhD
+CUST00101,West,High,52,High School
+CUST00102,South,High,26,PhD
+CUST00103,South,Medium,32,High School
+CUST00104,North,High,71,Bachelors
+CUST00105,West,Medium,68,Masters
+CUST00106,West,Low,36,PhD
+CUST00107,North,Low,54,Masters
+CUST00108,West,Low,23,Masters
+CUST00109,East,Medium,53,PhD
+CUST00110,East,High,61,Bachelors
+CUST00111,North,Medium,22,Masters
+CUST00112,South,Medium,20,Masters
+CUST00113,South,Medium,27,High School
+CUST00114,West,Low,30,High School
+CUST00115,East,Low,21,Bachelors
+CUST00116,South,Medium,73,PhD
+CUST00117,West,Medium,57,Masters
+CUST00118,East,High,50,Bachelors
+CUST00119,South,Low,69,PhD
+CUST00120,West,Medium,51,High School
+CUST00121,North,Medium,53,Masters
+CUST00122,North,Low,70,Masters
+CUST00123,South,Medium,50,PhD
+CUST00124,West,Low,38,Bachelors
+CUST00125,East,Medium,56,Masters
+CUST00126,North,Medium,22,Masters
+CUST00127,East,Low,72,High School
+CUST00128,West,Medium,62,Bachelors
+CUST00129,North,Low,74,High School
+CUST00130,South,Low,30,PhD
+CUST00131,North,Medium,57,PhD
+CUST00132,South,High,34,Bachelors
+CUST00133,East,Low,27,High School
+CUST00134,North,Low,27,PhD
+CUST00135,West,Medium,19,Bachelors
+CUST00136,East,Low,55,PhD
+CUST00137,East,Low,38,Masters
+CUST00138,South,Low,18,Masters
+CUST00139,West,Medium,47,Bachelors
+CUST00140,East,High,35,PhD
+CUST00141,North,Low,52,Bachelors
+CUST00142,South,Medium,70,Bachelors
+CUST00143,West,Low,56,Bachelors
+CUST00144,South,Medium,65,Masters
+CUST00145,South,Low,39,Bachelors
+CUST00146,East,Low,20,Masters
+CUST00147,North,Medium,23,Masters
+CUST00148,North,Low,53,PhD
+CUST00149,West,Low,33,Bachelors
+CUST00150,West,High,20,PhD
+CUST00151,North,High,53,Masters
+CUST00152,South,Low,28,Bachelors
+CUST00153,South,Medium,73,Masters
+CUST00154,North,Medium,34,Bachelors
+CUST00155,East,Medium,36,Bachelors
+CUST00156,South,High,25,High School
+CUST00157,North,Medium,31,PhD
+CUST00158,East,Medium,43,High School
+CUST00159,South,Low,65,Bachelors
+CUST00160,West,Medium,42,High School
+CUST00161,South,Medium,68,Masters
+CUST00162,South,Low,65,Bachelors
+CUST00163,North,Low,74,Bachelors
+CUST00164,South,Low,27,Bachelors
+CUST00165,South,Low,49,High School
+CUST00166,East,Low,32,PhD
+CUST00167,North,Low,21,PhD
+CUST00168,East,Low,45,PhD
+CUST00169,West,Medium,21,High School
+CUST00170,South,Medium,30,Masters
+CUST00171,North,Low,29,High School
+CUST00172,West,High,32,PhD
+CUST00173,North,Medium,46,High School
+CUST00174,South,Medium,40,Masters
+CUST00175,North,High,30,Bachelors
+CUST00176,North,Low,55,Bachelors
+CUST00177,East,Medium,63,PhD
+CUST00178,North,Medium,52,PhD
+CUST00179,North,Low,57,Masters
+CUST00180,East,Low,29,High School
+CUST00181,South,Medium,47,Masters
+CUST00182,West,Low,63,Masters
+CUST00183,East,High,22,Bachelors
+CUST00184,South,Medium,19,High School
+CUST00185,South,Medium,59,Bachelors
+CUST00186,West,Low,47,Bachelors
+CUST00187,South,Medium,52,Masters
+CUST00188,East,Low,72,Bachelors
+CUST00189,South,Low,27,PhD
+CUST00190,West,Medium,26,PhD
+CUST00191,West,Low,34,Bachelors
+CUST00192,East,Medium,55,Bachelors
+CUST00193,East,Medium,47,High School
+CUST00194,South,Low,58,PhD
+CUST00195,West,Medium,72,High School
+CUST00196,West,Medium,52,Bachelors
+CUST00197,South,Medium,24,PhD
+CUST00198,West,Medium,29,Masters
+CUST00199,East,High,67,Masters
+CUST00200,East,Medium,59,Bachelors
+CUST00201,South,Medium,51,High School
+CUST00202,South,Medium,66,Masters
+CUST00203,South,Medium,20,Masters
+CUST00204,East,Medium,50,PhD
+CUST00205,East,Low,57,High School
+CUST00206,West,Low,30,High School
+CUST00207,East,High,28,Masters
+CUST00208,South,Low,57,Bachelors
+CUST00209,North,Medium,37,Masters
+CUST00210,North,Medium,48,High School
+CUST00211,North,Low,50,PhD
+CUST00212,North,Medium,51,High School
+CUST00213,North,Low,67,PhD
+CUST00214,East,High,67,PhD
+CUST00215,South,Low,26,PhD
+CUST00216,South,Medium,24,High School
+CUST00217,West,Medium,26,High School
+CUST00218,South,Medium,59,Bachelors
+CUST00219,West,Low,43,Masters
+CUST00220,South,Medium,19,High School
+CUST00221,West,Low,22,PhD
+CUST00222,West,Low,66,High School
+CUST00223,South,Medium,19,High School
+CUST00224,North,Low,69,Masters
+CUST00225,South,Medium,27,High School
+CUST00226,South,Medium,48,PhD
+CUST00227,North,High,50,Masters
+CUST00228,South,Medium,61,Bachelors
+CUST00229,West,Low,73,PhD
+CUST00230,North,Medium,64,PhD
+CUST00231,North,High,23,High School
+CUST00232,East,High,31,Bachelors
+CUST00233,West,Medium,31,Masters
+CUST00234,West,High,32,Bachelors
+CUST00235,South,Medium,50,High School
+CUST00236,South,High,74,Bachelors
+CUST00237,West,Medium,48,PhD
+CUST00238,West,High,34,PhD
+CUST00239,West,High,60,Bachelors
+CUST00240,South,Low,32,Bachelors
+CUST00241,West,High,37,PhD
+CUST00242,West,Low,65,Bachelors
+CUST00243,North,Medium,38,PhD
+CUST00244,West,Medium,46,Bachelors
+CUST00245,East,Medium,26,Masters
+CUST00246,South,High,46,Masters
+CUST00247,North,Medium,61,High School
+CUST00248,West,Low,51,PhD
+CUST00249,West,Low,64,Masters
+CUST00250,North,Medium,26,PhD
+CUST00251,North,Medium,65,Masters
+CUST00252,North,Low,47,High School
+CUST00253,East,Medium,34,PhD
+CUST00254,East,Low,69,Masters
+CUST00255,North,Medium,72,PhD
+CUST00256,West,Low,21,High School
+CUST00257,South,Medium,57,High School
+CUST00258,East,Low,49,Masters
+CUST00259,South,Low,49,Bachelors
+CUST00260,South,High,24,High School
+CUST00261,East,Medium,55,Bachelors
+CUST00262,South,Medium,49,High School
+CUST00263,West,Medium,22,Masters
+CUST00264,East,Medium,59,Bachelors
+CUST00265,East,Medium,20,PhD
+CUST00266,South,Medium,73,High School
+CUST00267,South,Medium,37,Masters
+CUST00268,North,Low,73,PhD
+CUST00269,East,Low,34,Bachelors
+CUST00270,South,High,33,Masters
+CUST00271,West,High,28,PhD
+CUST00272,East,Low,30,Masters
+CUST00273,North,Low,35,Bachelors
+CUST00274,West,Low,31,PhD
+CUST00275,North,Medium,51,High School
+CUST00276,North,Low,29,High School
+CUST00277,West,Medium,39,Masters
+CUST00278,North,High,38,High School
+CUST00279,North,High,43,Bachelors
+CUST00280,North,Low,59,Bachelors
+CUST00281,North,High,56,PhD
+CUST00282,North,Medium,19,PhD
+CUST00283,East,Low,74,PhD
+CUST00284,South,Medium,67,Masters
+CUST00285,East,Medium,66,Masters
+CUST00286,East,High,33,Bachelors
+CUST00287,South,Low,51,Bachelors
+CUST00288,South,Low,28,Masters
+CUST00289,West,Medium,36,PhD
+CUST00290,North,High,47,Masters
+CUST00291,South,High,71,PhD
+CUST00292,West,Low,24,Bachelors
+CUST00293,West,Low,44,PhD
+CUST00294,East,High,39,Masters
+CUST00295,West,Medium,34,High School
+CUST00296,North,High,32,Bachelors
+CUST00297,East,High,26,Bachelors
+CUST00298,South,Low,29,Masters
+CUST00299,East,Medium,25,Masters
+CUST00300,East,Low,19,Bachelors
+CUST00301,North,Medium,66,Masters
+CUST00302,North,Medium,65,PhD
+CUST00303,East,High,72,PhD
+CUST00304,South,High,33,PhD
+CUST00305,North,Low,20,High School
+CUST00306,East,Low,68,Masters
+CUST00307,North,Medium,65,PhD
+CUST00308,North,High,48,Bachelors
+CUST00309,West,Medium,60,PhD
+CUST00310,South,High,43,PhD
+CUST00311,East,Medium,58,Masters
+CUST00312,East,Low,63,Bachelors
+CUST00313,West,Low,19,High School
+CUST00314,East,Low,47,Bachelors
+CUST00315,East,Medium,30,PhD
+CUST00316,West,High,54,High School
+CUST00317,West,Low,69,High School
+CUST00318,East,High,31,High School
+CUST00319,West,Low,18,High School
+CUST00320,North,Low,49,High School
+CUST00321,North,Medium,23,Masters
+CUST00322,North,Medium,39,PhD
+CUST00323,North,High,28,High School
+CUST00324,West,Medium,66,PhD
+CUST00325,South,Low,40,Masters
+CUST00326,South,Medium,71,Masters
+CUST00327,East,High,31,Masters
+CUST00328,South,Medium,31,Bachelors
+CUST00329,North,Low,37,Bachelors
+CUST00330,West,Low,24,High School
+CUST00331,North,Low,36,Masters
+CUST00332,North,Low,43,Bachelors
+CUST00333,West,High,39,Masters
+CUST00334,North,Low,23,Bachelors
+CUST00335,North,Medium,30,Masters
+CUST00336,West,Medium,27,Bachelors
+CUST00337,West,High,71,PhD
+CUST00338,East,Low,36,High School
+CUST00339,East,Medium,48,High School
+CUST00340,North,Low,27,PhD
+CUST00341,East,Low,54,High School
+CUST00342,South,Low,30,Masters
+CUST00343,South,Medium,34,High School
+CUST00344,North,Low,71,High School
+CUST00345,East,Medium,72,Bachelors
+CUST00346,North,Low,22,Bachelors
+CUST00347,East,High,38,PhD
+CUST00348,West,Medium,71,Bachelors
+CUST00349,West,High,56,PhD
+CUST00350,West,Low,37,High School
+CUST00351,West,Medium,24,Bachelors
+CUST00352,North,Medium,32,Bachelors
+CUST00353,North,Low,32,High School
+CUST00354,North,Medium,70,Bachelors
+CUST00355,South,Medium,40,Masters
+CUST00356,West,High,50,Bachelors
+CUST00357,West,Medium,61,Masters
+CUST00358,West,Low,19,PhD
+CUST00359,East,Low,67,Bachelors
+CUST00360,East,Medium,49,Bachelors
+CUST00361,South,Low,32,Masters
+CUST00362,South,Medium,24,High School
+CUST00363,East,Medium,26,PhD
+CUST00364,East,High,72,PhD
+CUST00365,North,Medium,45,Masters
+CUST00366,North,Medium,39,High School
+CUST00367,East,Low,20,Bachelors
+CUST00368,West,Low,70,High School
+CUST00369,East,Medium,59,High School
+CUST00370,North,High,19,Masters
+CUST00371,South,Medium,74,High School
+CUST00372,East,Medium,39,High School
+CUST00373,East,Medium,42,Masters
+CUST00374,West,High,42,High School
+CUST00375,South,Low,49,High School
+CUST00376,West,Medium,61,PhD
+CUST00377,South,Medium,24,Masters
+CUST00378,West,Medium,48,Masters
+CUST00379,South,Low,54,Masters
+CUST00380,East,Medium,21,High School
+CUST00381,East,Medium,50,PhD
+CUST00382,East,Low,32,PhD
+CUST00383,North,Medium,26,Bachelors
+CUST00384,South,Medium,23,Masters
+CUST00385,South,High,63,PhD
+CUST00386,West,Medium,48,PhD
+CUST00387,North,Low,51,PhD
+CUST00388,West,Medium,61,Masters
+CUST00389,North,Low,72,High School
+CUST00390,West,Medium,55,Bachelors
+CUST00391,North,Low,30,Bachelors
+CUST00392,West,Low,53,High School
+CUST00393,West,Low,49,Masters
+CUST00394,North,Low,39,PhD
+CUST00395,South,High,65,High School
+CUST00396,West,High,46,Bachelors
+CUST00397,North,Medium,28,Masters
+CUST00398,North,Low,23,PhD
+CUST00399,South,High,22,Bachelors
+CUST00400,South,High,18,Bachelors
+CUST00401,South,High,68,Bachelors
+CUST00402,South,Medium,56,PhD
+CUST00403,West,Low,67,Bachelors
+CUST00404,West,Low,27,Masters
+CUST00405,East,High,27,Masters
+CUST00406,West,High,66,PhD
+CUST00407,East,Medium,41,Masters
+CUST00408,East,Low,24,High School
+CUST00409,West,Medium,39,Masters
+CUST00410,East,Medium,38,Bachelors
+CUST00411,South,Medium,39,Bachelors
+CUST00412,East,Medium,50,Masters
+CUST00413,West,Low,61,Masters
+CUST00414,North,Low,42,PhD
+CUST00415,West,Medium,48,PhD
+CUST00416,North,Medium,66,High School
+CUST00417,North,Low,33,Masters
+CUST00418,East,Low,69,High School
+CUST00419,East,Medium,32,Masters
+CUST00420,North,Low,46,High School
+CUST00421,East,Medium,36,Masters
+CUST00422,South,Medium,69,Masters
+CUST00423,West,Medium,34,Masters
+CUST00424,East,Medium,43,High School
+CUST00425,North,Low,53,Bachelors
+CUST00426,North,Medium,53,PhD
+CUST00427,West,Low,52,PhD
+CUST00428,East,Medium,57,High School
+CUST00429,East,Medium,40,Masters
+CUST00430,North,Low,26,Bachelors
+CUST00431,West,Low,51,High School
+CUST00432,North,Low,68,High School
+CUST00433,West,Medium,71,PhD
+CUST00434,East,Low,35,PhD
+CUST00435,East,Medium,33,Bachelors
+CUST00436,West,Medium,49,Masters
+CUST00437,North,Medium,45,Bachelors
+CUST00438,North,High,49,PhD
+CUST00439,North,Low,67,Masters
+CUST00440,West,High,35,Bachelors
+CUST00441,West,Low,61,High School
+CUST00442,North,Low,51,High School
+CUST00443,North,Medium,46,High School
+CUST00444,West,Medium,38,Masters
+CUST00445,West,Low,18,Masters
+CUST00446,North,Medium,72,PhD
+CUST00447,North,Low,33,Bachelors
+CUST00448,East,High,66,Masters
+CUST00449,South,Medium,50,Masters
+CUST00450,West,Medium,38,Bachelors
+CUST00451,South,High,72,PhD
+CUST00452,West,Medium,52,Masters
+CUST00453,East,Medium,72,Bachelors
+CUST00454,West,Medium,74,Masters
+CUST00455,West,Medium,44,Masters
+CUST00456,South,Low,37,PhD
+CUST00457,East,Low,48,High School
+CUST00458,East,Low,33,Masters
+CUST00459,East,Medium,70,PhD
+CUST00460,East,Low,31,Bachelors
+CUST00461,West,Low,65,Bachelors
+CUST00462,South,Low,49,High School
+CUST00463,East,Medium,73,Bachelors
+CUST00464,North,Medium,58,High School
+CUST00465,East,Medium,49,Masters
+CUST00466,South,Low,70,High School
+CUST00467,South,High,70,Masters
+CUST00468,South,Medium,19,Bachelors
+CUST00469,South,Medium,74,High School
+CUST00470,North,High,62,PhD
+CUST00471,East,High,39,Bachelors
+CUST00472,West,Medium,54,Bachelors
+CUST00473,West,High,70,Bachelors
+CUST00474,North,Medium,69,Bachelors
+CUST00475,East,Low,34,Bachelors
+CUST00476,East,Low,49,PhD
+CUST00477,West,Medium,55,PhD
+CUST00478,North,Medium,34,PhD
+CUST00479,West,Medium,51,High School
+CUST00480,North,High,24,Bachelors
+CUST00481,South,Medium,46,High School
+CUST00482,East,Low,34,High School
+CUST00483,East,Low,41,High School
+CUST00484,East,High,25,Bachelors
+CUST00485,East,Medium,40,Bachelors
+CUST00486,East,Medium,72,High School
+CUST00487,East,Medium,50,Bachelors
+CUST00488,South,Medium,46,High School
+CUST00489,East,High,36,Bachelors
+CUST00490,South,Low,74,Bachelors
+CUST00491,East,Medium,22,High School
+CUST00492,East,Low,54,PhD
+CUST00493,North,High,40,Bachelors
+CUST00494,East,High,43,High School
+CUST00495,West,Medium,41,High School
+CUST00496,North,Medium,71,Bachelors
+CUST00497,North,Medium,38,Bachelors
+CUST00498,North,Medium,50,High School
+CUST00499,West,Low,43,High School
+CUST00500,South,Medium,27,High School
+CUST00501,North,Low,59,Masters
+CUST00502,North,High,46,Bachelors
+CUST00503,North,Medium,74,Masters
+CUST00504,East,High,71,High School
+CUST00505,South,Medium,52,Masters
+CUST00506,West,Low,45,PhD
+CUST00507,West,Low,29,High School
+CUST00508,South,High,61,PhD
+CUST00509,South,Medium,24,Masters
+CUST00510,South,Low,33,PhD
+CUST00511,East,Low,37,Masters
+CUST00512,North,Medium,46,Bachelors
+CUST00513,East,Low,52,Bachelors
+CUST00514,South,Low,45,Masters
+CUST00515,East,Medium,24,High School
+CUST00516,West,Medium,39,Bachelors
+CUST00517,East,Medium,31,Masters
+CUST00518,South,High,53,High School
+CUST00519,North,Medium,27,Bachelors
+CUST00520,East,High,73,Masters
+CUST00521,South,Low,19,High School
+CUST00522,East,Low,39,High School
+CUST00523,West,Low,33,Masters
+CUST00524,East,Low,52,PhD
+CUST00525,East,High,64,PhD
+CUST00526,North,High,57,PhD
+CUST00527,East,Medium,65,PhD
+CUST00528,East,Medium,28,High School
+CUST00529,West,Medium,73,PhD
+CUST00530,West,Medium,60,Masters
+CUST00531,West,Low,60,High School
+CUST00532,North,Medium,50,PhD
+CUST00533,West,Medium,51,Masters
+CUST00534,West,Low,69,Bachelors
+CUST00535,East,Low,50,High School
+CUST00536,East,Low,36,Masters
+CUST00537,North,Medium,37,PhD
+CUST00538,West,Low,27,Masters
+CUST00539,South,Medium,36,High School
+CUST00540,East,Medium,70,Bachelors
+CUST00541,South,Low,60,PhD
+CUST00542,South,Medium,29,Masters
+CUST00543,West,Medium,27,Bachelors
+CUST00544,South,Low,24,High School
+CUST00545,North,High,73,PhD
+CUST00546,North,Low,57,Bachelors
+CUST00547,East,High,28,High School
+CUST00548,South,Medium,67,PhD
+CUST00549,North,Low,33,Masters
+CUST00550,North,Medium,50,Bachelors
+CUST00551,South,Low,55,High School
+CUST00552,North,Low,34,Masters
+CUST00553,South,Low,71,PhD
+CUST00554,North,Low,62,Bachelors
+CUST00555,South,Medium,72,High School
+CUST00556,North,Medium,42,Bachelors
+CUST00557,North,High,59,Masters
+CUST00558,North,Low,48,Masters
+CUST00559,West,Medium,59,High School
+CUST00560,West,Low,18,Bachelors
+CUST00561,North,Medium,56,Bachelors
+CUST00562,West,High,37,Masters
+CUST00563,South,Low,26,Bachelors
+CUST00564,West,High,60,Bachelors
+CUST00565,East,Medium,69,Bachelors
+CUST00566,East,Medium,19,High School
+CUST00567,North,Medium,18,Masters
+CUST00568,West,Medium,72,PhD
+CUST00569,East,High,61,High School
+CUST00570,North,Medium,56,Masters
+CUST00571,East,Low,68,High School
+CUST00572,North,Medium,22,PhD
+CUST00573,East,Low,29,High School
+CUST00574,East,High,31,High School
+CUST00575,West,High,56,PhD
+CUST00576,North,Medium,49,Bachelors
+CUST00577,East,Medium,57,Masters
+CUST00578,North,High,63,PhD
+CUST00579,West,Low,61,High School
+CUST00580,East,Medium,26,Bachelors
+CUST00581,South,Medium,59,High School
+CUST00582,South,Medium,59,Bachelors
+CUST00583,South,Low,50,High School
+CUST00584,North,Medium,42,Masters
+CUST00585,West,Medium,71,Masters
+CUST00586,North,Low,55,High School
+CUST00587,North,Low,31,PhD
+CUST00588,South,Low,72,High School
+CUST00589,West,Low,26,High School
+CUST00590,East,Medium,72,PhD
+CUST00591,North,Medium,72,PhD
+CUST00592,South,Low,44,High School
+CUST00593,North,Medium,61,Bachelors
+CUST00594,North,Medium,36,Masters
+CUST00595,West,Low,42,Bachelors
+CUST00596,East,Medium,69,PhD
+CUST00597,North,Medium,49,Masters
+CUST00598,North,Low,39,High School
+CUST00599,East,Low,46,Masters
+CUST00600,West,High,72,High School
+CUST00601,North,Medium,45,High School
+CUST00602,West,Medium,61,PhD
+CUST00603,West,Medium,74,Bachelors
+CUST00604,North,Medium,30,PhD
+CUST00605,East,Medium,45,PhD
+CUST00606,North,Low,20,Masters
+CUST00607,North,Medium,47,Bachelors
+CUST00608,South,Medium,28,Bachelors
+CUST00609,East,Low,19,Bachelors
+CUST00610,South,High,67,Bachelors
+CUST00611,East,Medium,67,Masters
+CUST00612,North,Low,74,Masters
+CUST00613,West,High,73,PhD
+CUST00614,South,Low,74,PhD
+CUST00615,South,Low,26,Bachelors
+CUST00616,South,Medium,50,PhD
+CUST00617,South,Low,43,Masters
+CUST00618,East,Medium,33,PhD
+CUST00619,West,Low,42,High School
+CUST00620,West,Low,18,PhD
+CUST00621,North,Low,38,Masters
+CUST00622,North,Medium,37,Bachelors
+CUST00623,South,Low,73,High School
+CUST00624,North,Medium,22,High School
+CUST00625,North,Medium,74,High School
+CUST00626,East,High,34,PhD
+CUST00627,North,Medium,57,PhD
+CUST00628,North,Medium,55,High School
+CUST00629,North,Medium,18,High School
+CUST00630,West,Medium,30,Bachelors
+CUST00631,West,High,35,Bachelors
+CUST00632,North,High,21,High School
+CUST00633,South,High,64,Bachelors
+CUST00634,West,Medium,31,Masters
+CUST00635,East,Low,65,PhD
+CUST00636,East,Medium,22,Bachelors
+CUST00637,East,Medium,50,Masters
+CUST00638,North,High,43,PhD
+CUST00639,South,High,72,Bachelors
+CUST00640,East,Medium,21,PhD
+CUST00641,South,Medium,47,Masters
+CUST00642,East,Low,34,Masters
+CUST00643,South,Medium,45,PhD
+CUST00644,North,Medium,23,High School
+CUST00645,North,High,74,Bachelors
+CUST00646,East,High,74,High School
+CUST00647,East,Medium,44,Masters
+CUST00648,West,Low,53,PhD
+CUST00649,East,Medium,24,Bachelors
+CUST00650,West,Medium,18,Bachelors
+CUST00651,West,Low,27,High School
+CUST00652,North,Low,30,Bachelors
+CUST00653,North,High,58,Bachelors
+CUST00654,West,Low,49,Bachelors
+CUST00655,East,Low,31,Masters
+CUST00656,West,Medium,50,High School
+CUST00657,East,High,47,Masters
+CUST00658,North,Medium,26,PhD
+CUST00659,East,High,23,PhD
+CUST00660,West,Medium,27,High School
+CUST00661,East,Medium,28,PhD
+CUST00662,West,High,56,Masters
+CUST00663,East,Medium,37,Masters
+CUST00664,West,Low,42,Masters
+CUST00665,North,Medium,71,Masters
+CUST00666,West,Medium,29,High School
+CUST00667,North,High,39,Bachelors
+CUST00668,West,Low,29,PhD
+CUST00669,West,Medium,31,High School
+CUST00670,South,High,59,Bachelors
+CUST00671,South,Low,65,High School
+CUST00672,South,Medium,71,PhD
+CUST00673,South,Medium,53,High School
+CUST00674,East,Low,72,PhD
+CUST00675,North,Medium,31,High School
+CUST00676,North,Medium,19,High School
+CUST00677,South,Medium,19,Masters
+CUST00678,East,High,60,High School
+CUST00679,West,Medium,60,High School
+CUST00680,West,Medium,23,Bachelors
+CUST00681,North,Medium,42,Masters
+CUST00682,North,Low,20,PhD
+CUST00683,East,Medium,40,Masters
+CUST00684,West,Medium,26,High School
+CUST00685,East,Low,48,PhD
+CUST00686,West,Low,45,High School
+CUST00687,South,High,42,Masters
+CUST00688,South,Medium,52,Masters
+CUST00689,East,Low,18,High School
+CUST00690,North,Low,19,High School
+CUST00691,East,Low,32,High School
+CUST00692,East,Medium,60,Bachelors
+CUST00693,West,Low,57,Masters
+CUST00694,West,Low,33,Bachelors
+CUST00695,West,Low,40,Masters
+CUST00696,West,Medium,66,Masters
+CUST00697,North,Low,52,PhD
+CUST00698,North,Low,25,PhD
+CUST00699,South,Low,24,Masters
+CUST00700,East,Low,38,PhD
+CUST00701,South,Low,52,Masters
+CUST00702,West,Medium,56,Masters
+CUST00703,East,Medium,54,High School
+CUST00704,West,Low,50,PhD
+CUST00705,East,Medium,54,Bachelors
+CUST00706,North,Medium,52,Bachelors
+CUST00707,West,Low,35,PhD
+CUST00708,East,Low,36,Masters
+CUST00709,East,High,27,Bachelors
+CUST00710,West,High,21,PhD
+CUST00711,North,Low,47,Bachelors
+CUST00712,North,Low,62,High School
+CUST00713,North,Medium,50,Masters
+CUST00714,East,Medium,21,High School
+CUST00715,North,Medium,26,Bachelors
+CUST00716,East,Medium,34,Masters
+CUST00717,South,Low,60,Masters
+CUST00718,North,Low,56,Masters
+CUST00719,West,Medium,41,PhD
+CUST00720,West,High,74,PhD
+CUST00721,West,Low,56,Masters
+CUST00722,West,Medium,30,Masters
+CUST00723,South,Medium,74,Masters
+CUST00724,South,Low,43,High School
+CUST00725,North,High,36,High School
+CUST00726,North,Medium,34,Bachelors
+CUST00727,West,Medium,67,Masters
+CUST00728,West,Medium,47,Masters
+CUST00729,West,Low,43,High School
+CUST00730,East,Medium,30,Bachelors
+CUST00731,North,Medium,66,Bachelors
+CUST00732,West,Low,35,Masters
+CUST00733,West,Medium,74,PhD
+CUST00734,West,Low,38,Bachelors
+CUST00735,South,Low,69,Bachelors
+CUST00736,South,Medium,51,Masters
+CUST00737,South,Low,68,Masters
+CUST00738,East,Medium,64,Masters
+CUST00739,East,High,26,High School
+CUST00740,North,Low,47,Masters
+CUST00741,West,Medium,46,PhD
+CUST00742,North,Medium,46,PhD
+CUST00743,North,Medium,63,Bachelors
+CUST00744,South,Medium,36,High School
+CUST00745,West,Medium,25,Bachelors
+CUST00746,South,Low,61,High School
+CUST00747,South,Low,34,Masters
+CUST00748,West,Medium,29,Bachelors
+CUST00749,North,Low,32,PhD
+CUST00750,North,Medium,22,High School
+CUST00751,South,Medium,51,Bachelors
+CUST00752,West,Low,69,PhD
+CUST00753,North,Low,67,PhD
+CUST00754,East,Low,20,Masters
+CUST00755,North,Medium,22,High School
+CUST00756,West,Medium,51,Bachelors
+CUST00757,West,Low,26,PhD
+CUST00758,West,Low,41,High School
+CUST00759,South,Low,22,Masters
+CUST00760,North,Low,44,High School
+CUST00761,East,Medium,66,High School
+CUST00762,South,Medium,70,Bachelors
+CUST00763,North,Low,37,High School
+CUST00764,West,Medium,64,Masters
+CUST00765,North,Low,62,PhD
+CUST00766,West,Low,58,Bachelors
+CUST00767,West,Low,19,PhD
+CUST00768,North,Medium,40,High School
+CUST00769,North,Medium,51,Masters
+CUST00770,East,Low,46,PhD
+CUST00771,North,Low,60,Masters
+CUST00772,North,Low,52,High School
+CUST00773,South,Low,47,High School
+CUST00774,West,Medium,20,PhD
+CUST00775,West,Low,27,Bachelors
+CUST00776,East,Medium,73,Masters
+CUST00777,South,Low,51,Masters
+CUST00778,East,Medium,18,Masters
+CUST00779,North,Medium,23,High School
+CUST00780,East,Medium,23,High School
+CUST00781,West,Low,60,PhD
+CUST00782,South,Low,33,PhD
+CUST00783,North,Low,18,High School
+CUST00784,South,Medium,22,Bachelors
+CUST00785,South,Low,42,Masters
+CUST00786,East,Low,44,Masters
+CUST00787,North,High,59,High School
+CUST00788,South,Low,70,Bachelors
+CUST00789,South,High,72,Bachelors
+CUST00790,East,High,55,Bachelors
+CUST00791,South,Medium,60,Bachelors
+CUST00792,West,High,43,Bachelors
+CUST00793,West,Low,33,PhD
+CUST00794,North,Low,69,High School
+CUST00795,North,Low,62,High School
+CUST00796,East,Low,61,High School
+CUST00797,South,Low,67,Masters
+CUST00798,East,Medium,43,Bachelors
+CUST00799,East,Low,62,Bachelors
+CUST00800,West,Low,54,Masters
+CUST00801,South,Medium,45,Bachelors
+CUST00802,West,Low,45,Bachelors
+CUST00803,West,Low,47,Bachelors
+CUST00804,North,Low,30,Bachelors
+CUST00805,East,Medium,42,Bachelors
+CUST00806,West,Medium,62,PhD
+CUST00807,North,Medium,68,High School
+CUST00808,North,Low,36,PhD
+CUST00809,South,High,30,Bachelors
+CUST00810,South,Low,28,High School
+CUST00811,West,Medium,65,High School
+CUST00812,North,High,40,High School
+CUST00813,North,Medium,31,High School
+CUST00814,North,Medium,27,Masters
+CUST00815,East,Low,51,High School
+CUST00816,North,Low,57,Masters
+CUST00817,East,High,40,Masters
+CUST00818,South,Low,57,High School
+CUST00819,West,High,71,Bachelors
+CUST00820,South,Medium,38,Bachelors
+CUST00821,West,Medium,37,High School
+CUST00822,North,Medium,49,High School
+CUST00823,West,Low,31,Masters
+CUST00824,West,Low,41,PhD
+CUST00825,South,Low,63,Masters
+CUST00826,West,Low,35,Bachelors
+CUST00827,North,High,64,PhD
+CUST00828,East,Low,71,PhD
+CUST00829,North,Medium,47,PhD
+CUST00830,West,Low,45,Masters
+CUST00831,South,Medium,65,Masters
+CUST00832,North,Medium,31,High School
+CUST00833,West,Medium,59,Masters
+CUST00834,South,High,71,Masters
+CUST00835,East,High,38,PhD
+CUST00836,South,Medium,51,PhD
+CUST00837,West,High,22,Masters
+CUST00838,South,Medium,48,Bachelors
+CUST00839,West,Medium,20,PhD
+CUST00840,South,Medium,40,High School
+CUST00841,South,Low,56,Bachelors
+CUST00842,South,High,73,PhD
+CUST00843,West,Low,61,High School
+CUST00844,South,Low,47,PhD
+CUST00845,West,Low,59,High School
+CUST00846,North,Low,60,PhD
+CUST00847,East,Low,47,PhD
+CUST00848,North,Medium,74,Masters
+CUST00849,East,High,66,Bachelors
+CUST00850,West,Low,53,Bachelors
+CUST00851,North,Medium,55,Masters
+CUST00852,East,Low,24,PhD
+CUST00853,East,Low,22,Bachelors
+CUST00854,North,Medium,23,High School
+CUST00855,North,High,66,High School
+CUST00856,West,Low,31,PhD
+CUST00857,East,Low,28,PhD
+CUST00858,West,Low,54,High School
+CUST00859,West,High,19,PhD
+CUST00860,South,Low,48,Masters
+CUST00861,West,Medium,63,Bachelors
+CUST00862,East,High,44,High School
+CUST00863,South,Medium,33,Masters
+CUST00864,West,High,19,High School
+CUST00865,West,High,66,High School
+CUST00866,East,Medium,43,PhD
+CUST00867,South,Medium,33,Bachelors
+CUST00868,North,Low,26,Masters
+CUST00869,North,High,69,High School
+CUST00870,South,Low,69,High School
+CUST00871,South,Medium,26,PhD
+CUST00872,South,Low,22,Masters
+CUST00873,South,Low,53,PhD
+CUST00874,North,Low,24,PhD
+CUST00875,West,Medium,49,Masters
+CUST00876,East,Low,46,Bachelors
+CUST00877,North,Low,54,PhD
+CUST00878,East,Low,73,High School
+CUST00879,North,Low,20,Bachelors
+CUST00880,South,Medium,47,High School
+CUST00881,North,Low,57,Bachelors
+CUST00882,North,Low,48,High School
+CUST00883,South,Medium,65,PhD
+CUST00884,West,Medium,44,PhD
+CUST00885,South,Medium,23,PhD
+CUST00886,West,High,46,Masters
+CUST00887,North,Low,26,PhD
+CUST00888,North,Medium,71,Bachelors
+CUST00889,East,Medium,37,PhD
+CUST00890,East,Medium,67,Masters
+CUST00891,North,Medium,28,High School
+CUST00892,East,Low,36,Masters
+CUST00893,West,Low,56,Bachelors
+CUST00894,South,Medium,27,Bachelors
+CUST00895,North,Low,22,Masters
+CUST00896,North,Medium,56,High School
+CUST00897,East,Medium,40,PhD
+CUST00898,North,Low,23,Bachelors
+CUST00899,North,Low,48,PhD
+CUST00900,West,Low,35,High School
+CUST00901,West,Low,38,Bachelors
+CUST00902,South,Low,32,High School
+CUST00903,North,Low,48,High School
+CUST00904,East,Low,27,Masters
+CUST00905,South,Low,23,High School
+CUST00906,East,Low,41,Bachelors
+CUST00907,North,High,50,Masters
+CUST00908,East,High,45,Bachelors
+CUST00909,East,Low,45,Masters
+CUST00910,South,Low,27,Masters
+CUST00911,North,Medium,40,High School
+CUST00912,South,Low,32,High School
+CUST00913,North,Medium,63,PhD
+CUST00914,West,Low,65,Bachelors
+CUST00915,South,Low,54,Bachelors
+CUST00916,North,Medium,31,PhD
+CUST00917,West,Medium,65,High School
+CUST00918,West,High,31,Bachelors
+CUST00919,West,Low,24,Bachelors
+CUST00920,South,High,68,High School
+CUST00921,West,Medium,53,Masters
+CUST00922,North,Medium,35,High School
+CUST00923,South,High,71,PhD
+CUST00924,East,High,70,Bachelors
+CUST00925,West,Medium,32,Masters
+CUST00926,South,Low,66,PhD
+CUST00927,East,Medium,50,High School
+CUST00928,South,Medium,73,Masters
+CUST00929,West,Medium,64,Bachelors
+CUST00930,West,Medium,65,Masters
+CUST00931,East,Low,73,Bachelors
+CUST00932,North,Medium,39,High School
+CUST00933,West,Low,60,Masters
+CUST00934,East,High,58,Masters
+CUST00935,West,Low,34,Masters
+CUST00936,North,Medium,43,Bachelors
+CUST00937,East,High,32,High School
+CUST00938,North,Medium,57,High School
+CUST00939,West,Medium,35,Bachelors
+CUST00940,East,Medium,25,Masters
+CUST00941,South,Low,20,Bachelors
+CUST00942,North,Medium,71,Bachelors
+CUST00943,West,Medium,72,PhD
+CUST00944,West,Medium,68,High School
+CUST00945,North,Medium,31,Bachelors
+CUST00946,East,Medium,51,Masters
+CUST00947,South,Low,50,Bachelors
+CUST00948,West,Medium,54,Bachelors
+CUST00949,North,Low,66,Bachelors
+CUST00950,North,Low,18,Masters
+CUST00951,South,Medium,70,PhD
+CUST00952,South,Medium,65,Bachelors
+CUST00953,West,Low,52,High School
+CUST00954,South,Medium,27,Bachelors
+CUST00955,North,Low,36,PhD
+CUST00956,East,High,28,Bachelors
+CUST00957,East,Low,72,High School
+CUST00958,North,Low,52,PhD
+CUST00959,North,Medium,19,High School
+CUST00960,North,Medium,20,High School
+CUST00961,West,Low,32,High School
+CUST00962,North,Low,69,PhD
+CUST00963,South,Low,58,PhD
+CUST00964,North,Low,64,High School
+CUST00965,North,Low,45,High School
+CUST00966,West,Medium,19,Masters
+CUST00967,North,High,47,PhD
+CUST00968,South,Medium,55,Bachelors
+CUST00969,South,Low,22,PhD
+CUST00970,South,High,23,Masters
+CUST00971,North,Medium,22,Masters
+CUST00972,West,Low,71,High School
+CUST00973,West,Medium,29,PhD
+CUST00974,West,Low,21,Bachelors
+CUST00975,South,Low,41,PhD
+CUST00976,West,Low,42,Masters
+CUST00977,North,Medium,43,Bachelors
+CUST00978,North,Low,72,Bachelors
+CUST00979,East,Medium,63,High School
+CUST00980,South,Medium,63,PhD
+CUST00981,East,Medium,60,PhD
+CUST00982,East,Low,50,PhD
+CUST00983,South,Medium,38,Bachelors
+CUST00984,South,Medium,40,Masters
+CUST00985,East,Medium,54,Masters
+CUST00986,North,Medium,54,High School
+CUST00987,East,Low,29,Masters
+CUST00988,South,Low,54,PhD
+CUST00989,North,Medium,38,High School
+CUST00990,East,Medium,30,Masters
+CUST00991,East,Low,60,Masters
+CUST00992,East,Low,70,High School
+CUST00993,South,Low,50,Bachelors
+CUST00994,East,High,61,High School
+CUST00995,South,Low,23,Bachelors
+CUST00996,North,Low,60,PhD
+CUST00997,West,Medium,29,Bachelors
+CUST00998,North,Medium,55,High School
+CUST00999,East,Medium,73,PhD
+CUST01000,South,Medium,47,High School
+CUST01001,East,Medium,54,High School
+CUST01002,North,Medium,35,Bachelors
+CUST01003,West,Low,33,Bachelors
+CUST01004,West,Medium,62,Bachelors
+CUST01005,South,Low,24,PhD
+CUST01006,North,Low,63,Bachelors
+CUST01007,North,Low,18,PhD
+CUST01008,South,Medium,70,High School
+CUST01009,South,Medium,45,High School
+CUST01010,South,Medium,70,Bachelors
+CUST01011,East,Medium,61,Masters
+CUST01012,East,Low,20,High School
+CUST01013,South,Low,67,Masters
+CUST01014,South,Medium,60,Masters
+CUST01015,West,Low,69,Masters
+CUST01016,West,Low,56,Bachelors
+CUST01017,East,High,27,PhD
+CUST01018,West,Medium,68,High School
+CUST01019,South,Low,62,Masters
+CUST01020,North,Medium,31,PhD
+CUST01021,South,Medium,32,Bachelors
+CUST01022,West,Low,23,High School
+CUST01023,East,Low,56,PhD
+CUST01024,South,Low,62,Bachelors
+CUST01025,South,Low,33,High School
+CUST01026,West,Low,64,High School
+CUST01027,North,High,35,Bachelors
+CUST01028,South,Medium,52,Masters
+CUST01029,East,Medium,65,High School
+CUST01030,East,Low,42,High School
+CUST01031,North,Low,50,Masters
+CUST01032,West,High,73,PhD
+CUST01033,North,Medium,50,High School
+CUST01034,East,High,36,PhD
+CUST01035,South,Low,55,Masters
+CUST01036,East,High,28,High School
+CUST01037,North,Medium,73,Masters
+CUST01038,East,Low,56,High School
+CUST01039,West,Medium,20,High School
+CUST01040,North,Medium,55,High School
+CUST01041,East,Low,18,Masters
+CUST01042,South,High,57,High School
+CUST01043,South,Medium,42,PhD
+CUST01044,North,Low,74,Bachelors
+CUST01045,South,Low,49,Bachelors
+CUST01046,North,Low,63,Bachelors
+CUST01047,South,Low,53,PhD
+CUST01048,East,Medium,21,High School
+CUST01049,South,Medium,72,Masters
+CUST01050,East,Medium,40,Masters
+CUST01051,North,Medium,33,High School
+CUST01052,South,Low,28,PhD
+CUST01053,West,High,39,Bachelors
+CUST01054,West,Low,56,PhD
+CUST01055,West,Low,50,PhD
+CUST01056,South,Medium,58,Masters
+CUST01057,East,Medium,55,High School
+CUST01058,North,High,73,Masters
+CUST01059,South,High,30,Bachelors
+CUST01060,North,High,38,Bachelors
+CUST01061,North,Medium,29,Masters
+CUST01062,South,Low,72,High School
+CUST01063,East,Medium,68,High School
+CUST01064,West,Low,43,PhD
+CUST01065,North,Low,66,PhD
+CUST01066,North,Low,72,Masters
+CUST01067,South,Low,70,Bachelors
+CUST01068,North,Medium,18,High School
+CUST01069,South,Low,58,Masters
+CUST01070,North,Low,74,Masters
+CUST01071,East,Medium,39,Bachelors
+CUST01072,East,Medium,44,PhD
+CUST01073,West,High,74,Bachelors
+CUST01074,West,Medium,72,PhD
+CUST01075,East,Low,49,PhD
+CUST01076,West,Low,25,High School
+CUST01077,West,Medium,51,High School
+CUST01078,West,Medium,35,PhD
+CUST01079,East,Low,21,PhD
+CUST01080,West,High,18,High School
+CUST01081,South,Medium,73,PhD
+CUST01082,West,Low,70,PhD
+CUST01083,South,Medium,61,PhD
+CUST01084,West,Medium,33,Bachelors
+CUST01085,South,Low,47,Masters
+CUST01086,West,Low,40,PhD
+CUST01087,South,Medium,48,High School
+CUST01088,West,Medium,45,PhD
+CUST01089,South,Low,67,PhD
+CUST01090,East,High,54,High School
+CUST01091,North,Low,33,High School
+CUST01092,North,Low,58,PhD
+CUST01093,East,Low,26,Masters
+CUST01094,East,High,19,High School
+CUST01095,South,Medium,63,High School
+CUST01096,South,Medium,60,Bachelors
+CUST01097,West,High,19,PhD
+CUST01098,West,Medium,49,Bachelors
+CUST01099,North,Low,33,Bachelors
+CUST01100,North,Medium,70,Masters
+CUST01101,South,Medium,68,PhD
+CUST01102,South,Low,30,PhD
+CUST01103,East,Low,66,Bachelors
+CUST01104,South,Medium,44,High School
+CUST01105,West,Low,48,High School
+CUST01106,East,Low,50,PhD
+CUST01107,South,Medium,38,Masters
+CUST01108,West,High,36,Masters
+CUST01109,West,Low,65,PhD
+CUST01110,North,Medium,74,High School
+CUST01111,East,Medium,30,Masters
+CUST01112,North,Medium,36,PhD
+CUST01113,East,High,52,PhD
+CUST01114,East,Medium,52,High School
+CUST01115,North,Medium,50,Bachelors
+CUST01116,North,High,20,High School
+CUST01117,South,Low,65,Masters
+CUST01118,East,Low,38,Bachelors
+CUST01119,South,Medium,57,High School
+CUST01120,East,Low,40,Masters
+CUST01121,West,Low,65,Masters
+CUST01122,South,Low,62,Bachelors
+CUST01123,North,Medium,62,High School
+CUST01124,West,High,28,High School
+CUST01125,North,Low,21,Masters
+CUST01126,West,Medium,21,PhD
+CUST01127,West,Low,32,PhD
+CUST01128,South,Medium,45,Bachelors
+CUST01129,North,Medium,53,High School
+CUST01130,South,High,25,PhD
+CUST01131,West,Low,41,Bachelors
+CUST01132,East,Medium,51,Masters
+CUST01133,East,Low,32,PhD
+CUST01134,West,Medium,40,High School
+CUST01135,North,High,44,Masters
+CUST01136,North,High,31,High School
+CUST01137,North,Low,70,Masters
+CUST01138,East,Medium,19,High School
+CUST01139,South,Low,52,Bachelors
+CUST01140,North,Low,60,High School
+CUST01141,South,High,24,High School
+CUST01142,North,Low,33,Masters
+CUST01143,North,Low,39,High School
+CUST01144,North,Low,71,High School
+CUST01145,South,Low,45,High School
+CUST01146,South,Low,49,Masters
+CUST01147,South,Medium,24,PhD
+CUST01148,West,Medium,39,PhD
+CUST01149,East,Medium,60,PhD
+CUST01150,West,Low,19,High School
+CUST01151,East,Medium,25,Bachelors
+CUST01152,West,Medium,24,Bachelors
+CUST01153,East,High,55,Masters
+CUST01154,South,High,65,PhD
+CUST01155,East,Medium,38,High School
+CUST01156,North,High,60,Masters
+CUST01157,South,Low,39,High School
+CUST01158,West,Low,52,Masters
+CUST01159,North,Medium,35,PhD
+CUST01160,North,Low,26,High School
+CUST01161,South,Low,66,PhD
+CUST01162,North,High,19,PhD
+CUST01163,South,Medium,59,High School
+CUST01164,East,Low,59,PhD
+CUST01165,South,Medium,34,Masters
+CUST01166,South,Medium,57,Masters
+CUST01167,West,High,37,Masters
+CUST01168,North,Medium,23,PhD
+CUST01169,West,Medium,28,High School
+CUST01170,West,Medium,22,PhD
+CUST01171,West,Medium,73,PhD
+CUST01172,West,Medium,27,Masters
+CUST01173,West,Medium,40,High School
+CUST01174,North,Medium,50,Bachelors
+CUST01175,North,High,57,Bachelors
+CUST01176,North,Low,53,High School
+CUST01177,West,Low,56,High School
+CUST01178,North,Medium,68,Masters
+CUST01179,West,Low,64,High School
+CUST01180,North,Medium,51,High School
+CUST01181,North,Low,34,PhD
+CUST01182,North,Medium,43,PhD
+CUST01183,North,High,70,Bachelors
+CUST01184,South,Medium,65,Masters
+CUST01185,North,Low,44,Masters
+CUST01186,North,High,63,High School
+CUST01187,South,Low,20,Masters
+CUST01188,East,Medium,36,Bachelors
+CUST01189,East,Medium,25,PhD
+CUST01190,South,High,34,Bachelors
+CUST01191,East,Low,67,Bachelors
+CUST01192,North,Medium,18,High School
+CUST01193,West,Low,24,PhD
+CUST01194,West,Low,53,High School
+CUST01195,North,High,20,Bachelors
+CUST01196,North,Medium,36,Bachelors
+CUST01197,East,Medium,59,Masters
+CUST01198,South,Low,44,Masters
+CUST01199,West,Medium,20,Masters
+CUST01200,North,Medium,51,Masters
+CUST01201,South,Medium,22,Bachelors
+CUST01202,South,Medium,66,Masters
+CUST01203,North,High,54,PhD
+CUST01204,South,Medium,63,Bachelors
+CUST01205,West,Medium,33,Bachelors
+CUST01206,West,Medium,73,PhD
+CUST01207,South,Medium,72,High School
+CUST01208,North,Low,31,Masters
+CUST01209,South,Medium,47,Bachelors
+CUST01210,East,High,49,PhD
+CUST01211,North,High,68,High School
+CUST01212,North,Medium,62,High School
+CUST01213,North,Low,29,PhD
+CUST01214,West,High,74,Bachelors
+CUST01215,North,Medium,44,Bachelors
+CUST01216,North,Low,43,Masters
+CUST01217,West,Medium,65,Masters
+CUST01218,West,High,46,PhD
+CUST01219,West,Low,40,PhD
+CUST01220,North,High,66,Bachelors
+CUST01221,North,High,39,Bachelors
+CUST01222,West,Low,37,PhD
+CUST01223,West,High,55,PhD
+CUST01224,East,High,63,High School
+CUST01225,West,Low,33,High School
+CUST01226,South,Low,48,High School
+CUST01227,East,Low,20,High School
+CUST01228,West,Low,38,High School
+CUST01229,West,Medium,68,PhD
+CUST01230,West,Low,56,Masters
+CUST01231,West,High,22,PhD
+CUST01232,South,High,37,High School
+CUST01233,West,Low,72,PhD
+CUST01234,North,Medium,40,Bachelors
+CUST01235,East,Medium,49,PhD
+CUST01236,West,Medium,59,PhD
+CUST01237,North,Low,26,Masters
+CUST01238,South,Low,20,High School
+CUST01239,East,Low,44,High School
+CUST01240,West,Low,44,PhD
+CUST01241,East,High,27,PhD
+CUST01242,West,Low,33,High School
+CUST01243,South,Low,41,Bachelors
+CUST01244,South,Medium,40,High School
+CUST01245,East,Low,26,Bachelors
+CUST01246,East,Low,19,PhD
+CUST01247,East,Medium,23,PhD
+CUST01248,South,Medium,54,Bachelors
+CUST01249,North,Low,52,High School
+CUST01250,East,Medium,24,PhD
+CUST01251,West,Medium,32,High School
+CUST01252,South,Medium,38,PhD
+CUST01253,East,Medium,55,Masters
+CUST01254,South,Low,53,Masters
+CUST01255,East,Medium,40,Masters
+CUST01256,South,Medium,46,Bachelors
+CUST01257,South,High,30,High School
+CUST01258,East,High,72,Masters
+CUST01259,West,Medium,22,Bachelors
+CUST01260,South,Medium,64,Masters
+CUST01261,West,Medium,56,PhD
+CUST01262,West,High,56,Masters
+CUST01263,South,Medium,59,High School
+CUST01264,South,Low,62,High School
+CUST01265,South,Low,73,Bachelors
+CUST01266,West,Low,60,High School
+CUST01267,South,Low,18,Masters
+CUST01268,South,High,37,PhD
+CUST01269,South,Low,60,PhD
+CUST01270,South,Low,18,Bachelors
+CUST01271,East,High,52,PhD
+CUST01272,South,Low,57,Bachelors
+CUST01273,West,Low,62,Bachelors
+CUST01274,West,Medium,24,Bachelors
+CUST01275,North,Medium,52,High School
+CUST01276,East,Low,69,Masters
+CUST01277,East,Medium,51,High School
+CUST01278,North,Low,67,PhD
+CUST01279,West,Medium,22,High School
+CUST01280,West,Medium,46,Bachelors
+CUST01281,South,Medium,67,High School
+CUST01282,North,Medium,65,High School
+CUST01283,West,Medium,44,PhD
+CUST01284,North,Medium,24,Masters
+CUST01285,North,Low,18,Bachelors
+CUST01286,East,Low,26,High School
+CUST01287,West,Medium,64,PhD
+CUST01288,West,Low,18,PhD
+CUST01289,South,Medium,44,Bachelors
+CUST01290,West,Low,34,PhD
+CUST01291,East,Medium,49,Masters
+CUST01292,West,High,58,PhD
+CUST01293,South,Low,72,High School
+CUST01294,West,Medium,47,Masters
+CUST01295,North,Medium,32,Masters
+CUST01296,East,High,59,PhD
+CUST01297,South,Low,45,Bachelors
+CUST01298,South,Medium,69,Bachelors
+CUST01299,North,Medium,20,Bachelors
+CUST01300,East,Low,45,High School
+CUST01301,West,Low,22,PhD
+CUST01302,East,Low,19,Bachelors
+CUST01303,East,Medium,71,High School
+CUST01304,East,Low,55,Masters
+CUST01305,East,Medium,33,Bachelors
+CUST01306,East,Low,61,Masters
+CUST01307,East,Low,34,Bachelors
+CUST01308,North,Medium,29,PhD
+CUST01309,South,High,43,Masters
+CUST01310,North,Medium,74,PhD
+CUST01311,West,Medium,66,High School
+CUST01312,South,Medium,71,Masters
+CUST01313,South,Medium,24,High School
+CUST01314,West,Medium,41,Bachelors
+CUST01315,South,High,33,Bachelors
+CUST01316,West,Medium,35,Bachelors
+CUST01317,East,Medium,25,High School
+CUST01318,East,Medium,44,Bachelors
+CUST01319,South,Low,43,PhD
+CUST01320,South,Low,48,High School
+CUST01321,East,Low,35,High School
+CUST01322,East,Medium,19,Masters
+CUST01323,West,Low,58,Bachelors
+CUST01324,South,Low,40,Masters
+CUST01325,South,High,73,High School
+CUST01326,North,Medium,65,Masters
+CUST01327,East,Low,66,PhD
+CUST01328,East,Medium,59,Bachelors
+CUST01329,South,Low,39,High School
+CUST01330,North,Medium,50,Masters
+CUST01331,West,Medium,70,Bachelors
+CUST01332,West,Low,35,PhD
+CUST01333,East,Low,32,Bachelors
+CUST01334,North,Low,58,Masters
+CUST01335,North,Low,20,PhD
+CUST01336,West,Low,65,High School
+CUST01337,East,High,40,PhD
+CUST01338,South,Medium,64,Bachelors
+CUST01339,North,High,19,High School
+CUST01340,South,Medium,59,Bachelors
+CUST01341,East,Medium,21,High School
+CUST01342,West,Low,43,PhD
+CUST01343,North,Low,36,High School
+CUST01344,South,Medium,66,Bachelors
+CUST01345,North,High,27,Masters
+CUST01346,North,Low,39,Masters
+CUST01347,North,Medium,70,Masters
+CUST01348,East,Low,23,High School
+CUST01349,South,Medium,18,Masters
+CUST01350,North,Medium,60,Masters
+CUST01351,South,Medium,33,Bachelors
+CUST01352,East,Low,73,PhD
+CUST01353,North,Low,69,High School
+CUST01354,North,Medium,24,Masters
+CUST01355,North,High,41,Bachelors
+CUST01356,South,Low,52,High School
+CUST01357,South,Medium,31,Bachelors
+CUST01358,North,Medium,21,PhD
+CUST01359,South,Low,58,Masters
+CUST01360,South,Medium,32,High School
+CUST01361,North,Low,61,High School
+CUST01362,North,Medium,74,Masters
+CUST01363,West,Medium,65,Bachelors
+CUST01364,West,Medium,40,PhD
+CUST01365,North,Low,36,High School
+CUST01366,East,High,31,High School
+CUST01367,North,Low,44,PhD
+CUST01368,North,Medium,53,High School
+CUST01369,North,Medium,72,PhD
+CUST01370,North,Medium,55,Masters
+CUST01371,North,Low,39,PhD
+CUST01372,North,High,28,PhD
+CUST01373,North,Low,21,Bachelors
+CUST01374,North,High,49,PhD
+CUST01375,West,Low,57,Masters
+CUST01376,West,Low,58,High School
+CUST01377,West,Low,72,Bachelors
+CUST01378,East,Low,41,PhD
+CUST01379,South,Low,51,Bachelors
+CUST01380,East,Low,69,Masters
+CUST01381,East,High,20,Masters
+CUST01382,North,Medium,55,High School
+CUST01383,West,Low,19,Masters
+CUST01384,North,Low,40,Masters
+CUST01385,North,Medium,57,PhD
+CUST01386,West,Low,37,Masters
+CUST01387,North,Medium,73,Masters
+CUST01388,South,Medium,25,Masters
+CUST01389,South,Medium,52,High School
+CUST01390,East,Medium,66,PhD
+CUST01391,West,Medium,60,PhD
+CUST01392,South,Low,20,Bachelors
+CUST01393,East,Low,49,Masters
+CUST01394,North,Low,48,Bachelors
+CUST01395,East,Medium,61,Bachelors
+CUST01396,East,Medium,63,Masters
+CUST01397,South,Medium,48,PhD
+CUST01398,East,Low,18,Masters
+CUST01399,West,Medium,29,Bachelors
+CUST01400,North,Low,35,High School
+CUST01401,West,Medium,41,Bachelors
+CUST01402,North,Medium,53,PhD
+CUST01403,West,Medium,46,High School
+CUST01404,North,High,42,Bachelors
+CUST01405,West,High,40,Masters
+CUST01406,North,Medium,20,PhD
+CUST01407,South,Low,47,High School
+CUST01408,East,Low,34,PhD
+CUST01409,East,Medium,62,Bachelors
+CUST01410,East,High,66,PhD
+CUST01411,East,Medium,47,High School
+CUST01412,North,Low,66,Masters
+CUST01413,West,High,36,High School
+CUST01414,West,Low,22,PhD
+CUST01415,South,Medium,57,Masters
+CUST01416,East,Medium,73,Masters
+CUST01417,East,Medium,51,PhD
+CUST01418,South,Medium,74,High School
+CUST01419,East,Medium,26,Masters
+CUST01420,South,Medium,56,Masters
+CUST01421,East,Medium,65,PhD
+CUST01422,West,Medium,61,Masters
+CUST01423,South,Medium,43,High School
+CUST01424,West,Low,70,Masters
+CUST01425,East,Low,22,Bachelors
+CUST01426,West,Low,41,Masters
+CUST01427,West,Medium,48,Bachelors
+CUST01428,North,Low,41,High School
+CUST01429,East,Medium,38,Bachelors
+CUST01430,North,Low,39,Masters
+CUST01431,South,Low,55,Masters
+CUST01432,North,Low,39,PhD
+CUST01433,East,Medium,38,PhD
+CUST01434,North,Low,74,Masters
+CUST01435,North,Low,47,Masters
+CUST01436,East,High,66,Masters
+CUST01437,West,Medium,64,Masters
+CUST01438,South,High,27,High School
+CUST01439,North,Medium,20,Masters
+CUST01440,East,High,56,Bachelors
+CUST01441,North,Medium,46,PhD
+CUST01442,South,High,42,Bachelors
+CUST01443,South,Low,19,Bachelors
+CUST01444,South,Low,30,High School
+CUST01445,North,Low,44,Bachelors
+CUST01446,West,High,46,Bachelors
+CUST01447,West,Medium,31,Bachelors
+CUST01448,West,Medium,21,PhD
+CUST01449,East,Medium,25,High School
+CUST01450,West,Medium,22,Bachelors
+CUST01451,West,High,61,Bachelors
+CUST01452,South,Medium,44,High School
+CUST01453,East,Medium,41,Masters
+CUST01454,South,Low,61,Bachelors
+CUST01455,North,Medium,60,PhD
+CUST01456,North,High,51,PhD
+CUST01457,South,Medium,45,Masters
+CUST01458,East,Medium,41,Bachelors
+CUST01459,West,Low,71,High School
+CUST01460,West,Low,22,Masters
+CUST01461,East,Low,30,PhD
+CUST01462,West,Medium,35,PhD
+CUST01463,West,Medium,72,High School
+CUST01464,South,High,34,Masters
+CUST01465,North,Medium,47,High School
+CUST01466,East,Low,55,Masters
+CUST01467,East,Low,36,Masters
+CUST01468,West,Medium,39,Masters
+CUST01469,West,Medium,66,Bachelors
+CUST01470,North,Medium,66,PhD
+CUST01471,East,Medium,35,PhD
+CUST01472,South,Low,43,PhD
+CUST01473,North,Low,32,Masters
+CUST01474,South,Low,72,Masters
+CUST01475,North,Low,45,Bachelors
+CUST01476,South,Medium,47,PhD
+CUST01477,South,Medium,45,PhD
+CUST01478,South,High,37,Bachelors
+CUST01479,East,High,21,PhD
+CUST01480,West,Medium,21,High School
+CUST01481,East,Medium,54,High School
+CUST01482,South,Medium,32,Bachelors
+CUST01483,West,Low,51,PhD
+CUST01484,South,High,28,Bachelors
+CUST01485,North,Medium,40,Bachelors
+CUST01486,West,High,52,Bachelors
+CUST01487,East,High,60,PhD
+CUST01488,South,Medium,52,Bachelors
+CUST01489,West,Low,28,PhD
+CUST01490,East,Medium,19,High School
+CUST01491,North,Medium,71,Bachelors
+CUST01492,South,Medium,69,Bachelors
+CUST01493,East,Low,69,PhD
+CUST01494,West,Medium,32,High School
+CUST01495,North,High,57,PhD
+CUST01496,South,High,45,Masters
+CUST01497,East,Low,48,PhD
+CUST01498,North,High,49,High School
+CUST01499,North,Low,51,High School
+CUST01500,East,Medium,72,Bachelors
+CUST01501,South,Low,67,PhD
+CUST01502,East,High,39,PhD
+CUST01503,North,Medium,46,Masters
+CUST01504,North,Low,70,High School
+CUST01505,West,Low,25,PhD
+CUST01506,South,Low,39,Masters
+CUST01507,East,Medium,29,PhD
+CUST01508,South,High,40,High School
+CUST01509,South,Medium,55,Bachelors
+CUST01510,North,Medium,73,PhD
+CUST01511,West,Medium,19,High School
+CUST01512,East,High,29,High School
+CUST01513,East,Medium,72,High School
+CUST01514,West,Low,38,Masters
+CUST01515,West,Medium,29,Masters
+CUST01516,North,Low,62,Bachelors
+CUST01517,North,High,48,PhD
+CUST01518,East,Low,26,Masters
+CUST01519,West,Low,32,Masters
+CUST01520,South,Low,49,Masters
+CUST01521,South,Medium,60,PhD
+CUST01522,West,Low,26,Bachelors
+CUST01523,East,High,41,Bachelors
+CUST01524,South,Low,25,Bachelors
+CUST01525,South,Low,69,PhD
+CUST01526,West,Low,45,PhD
+CUST01527,North,Low,73,Bachelors
+CUST01528,South,Medium,35,High School
+CUST01529,North,Low,60,PhD
+CUST01530,South,Low,54,PhD
+CUST01531,East,Low,53,Bachelors
+CUST01532,North,Low,70,Bachelors
+CUST01533,East,Medium,54,High School
+CUST01534,North,Medium,49,High School
+CUST01535,West,Low,38,Masters
+CUST01536,West,Low,56,Masters
+CUST01537,South,Medium,66,Bachelors
+CUST01538,East,Low,46,Masters
+CUST01539,North,Medium,35,PhD
+CUST01540,East,High,40,High School
+CUST01541,East,Low,50,Masters
+CUST01542,South,Low,65,Masters
+CUST01543,West,Low,26,Bachelors
+CUST01544,North,Medium,61,High School
+CUST01545,South,Low,68,High School
+CUST01546,East,Medium,60,Masters
+CUST01547,West,High,55,PhD
+CUST01548,West,Low,21,PhD
+CUST01549,North,Low,33,PhD
+CUST01550,West,Medium,20,PhD
+CUST01551,East,Low,25,PhD
+CUST01552,West,Low,33,Masters
+CUST01553,East,Medium,19,PhD
+CUST01554,North,Low,62,Masters
+CUST01555,East,Medium,36,Bachelors
+CUST01556,West,Low,41,Masters
+CUST01557,West,Medium,33,PhD
+CUST01558,North,Medium,68,Masters
+CUST01559,North,Low,57,PhD
+CUST01560,West,Low,72,Bachelors
+CUST01561,North,Low,19,PhD
+CUST01562,East,High,49,High School
+CUST01563,South,Medium,18,Bachelors
+CUST01564,East,Low,66,Masters
+CUST01565,East,Medium,35,Masters
+CUST01566,North,Medium,56,PhD
+CUST01567,South,High,49,High School
+CUST01568,West,Low,26,Bachelors
+CUST01569,North,High,72,Masters
+CUST01570,East,Medium,20,PhD
+CUST01571,South,High,73,High School
+CUST01572,North,Low,41,Masters
+CUST01573,East,Low,74,PhD
+CUST01574,East,Medium,28,PhD
+CUST01575,West,Medium,45,High School
+CUST01576,West,Low,33,Masters
+CUST01577,South,Medium,46,PhD
+CUST01578,East,Low,58,Masters
+CUST01579,East,Low,29,High School
+CUST01580,West,Low,63,High School
+CUST01581,East,Low,74,Masters
+CUST01582,West,Medium,21,High School
+CUST01583,East,Low,43,PhD
+CUST01584,West,Low,21,Masters
+CUST01585,West,High,28,PhD
+CUST01586,South,Low,19,Masters
+CUST01587,East,Medium,48,Bachelors
+CUST01588,East,High,73,PhD
+CUST01589,West,Low,67,PhD
+CUST01590,East,Low,20,Masters
+CUST01591,West,Medium,42,Masters
+CUST01592,South,Medium,51,PhD
+CUST01593,South,Medium,18,High School
+CUST01594,West,Medium,22,PhD
+CUST01595,North,High,56,Bachelors
+CUST01596,South,Low,69,High School
+CUST01597,East,Medium,48,High School
+CUST01598,West,Low,53,Masters
+CUST01599,West,Low,20,Masters
+CUST01600,South,Low,55,PhD
+CUST01601,West,Medium,29,PhD
+CUST01602,South,Medium,33,Masters
+CUST01603,West,Low,25,PhD
+CUST01604,South,Low,28,High School
+CUST01605,East,Low,62,PhD
+CUST01606,North,Low,31,High School
+CUST01607,North,Medium,44,Masters
+CUST01608,North,Medium,35,PhD
+CUST01609,North,Medium,71,High School
+CUST01610,South,Medium,25,Bachelors
+CUST01611,West,Medium,50,Bachelors
+CUST01612,North,Low,21,Bachelors
+CUST01613,West,Medium,66,High School
+CUST01614,South,Medium,47,PhD
+CUST01615,South,High,37,Bachelors
+CUST01616,North,High,47,Masters
+CUST01617,East,High,44,Masters
+CUST01618,North,Low,42,Masters
+CUST01619,West,Low,71,Bachelors
+CUST01620,North,High,23,Bachelors
+CUST01621,South,Medium,22,PhD
+CUST01622,South,Medium,31,High School
+CUST01623,West,Low,68,Masters
+CUST01624,West,Medium,31,PhD
+CUST01625,West,Medium,51,High School
+CUST01626,North,Medium,58,Bachelors
+CUST01627,North,High,42,High School
+CUST01628,East,Low,56,Masters
+CUST01629,West,Medium,35,High School
+CUST01630,East,Medium,37,High School
+CUST01631,East,Medium,60,Bachelors
+CUST01632,South,Low,25,Bachelors
+CUST01633,East,Medium,43,PhD
+CUST01634,South,Medium,71,Bachelors
+CUST01635,West,Medium,38,Bachelors
+CUST01636,South,Medium,44,Masters
+CUST01637,West,Low,49,Masters
+CUST01638,North,High,59,High School
+CUST01639,East,Medium,67,Masters
+CUST01640,West,Medium,34,PhD
+CUST01641,North,Low,66,PhD
+CUST01642,North,Low,18,High School
+CUST01643,West,Medium,44,PhD
+CUST01644,South,Low,71,PhD
+CUST01645,West,High,53,Bachelors
+CUST01646,East,Low,28,High School
+CUST01647,North,High,58,PhD
+CUST01648,South,Medium,58,High School
+CUST01649,West,Medium,52,PhD
+CUST01650,West,Low,55,Masters
+CUST01651,North,Low,55,High School
+CUST01652,West,Low,59,Masters
+CUST01653,East,Medium,59,High School
+CUST01654,South,Medium,66,Masters
+CUST01655,East,Medium,64,Bachelors
+CUST01656,North,High,74,Masters
+CUST01657,South,Medium,53,PhD
+CUST01658,North,Low,71,Bachelors
+CUST01659,North,Low,27,Masters
+CUST01660,East,Medium,57,Bachelors
+CUST01661,South,Low,18,Bachelors
+CUST01662,North,Medium,73,PhD
+CUST01663,East,Low,39,Masters
+CUST01664,East,Low,34,Bachelors
+CUST01665,South,Medium,29,PhD
+CUST01666,West,Medium,61,High School
+CUST01667,West,Medium,74,High School
+CUST01668,North,Medium,30,Bachelors
+CUST01669,West,Low,42,Bachelors
+CUST01670,South,Low,43,Bachelors
+CUST01671,West,Medium,63,PhD
+CUST01672,South,Medium,57,PhD
+CUST01673,North,Low,63,Masters
+CUST01674,West,Medium,56,High School
+CUST01675,South,Medium,66,Bachelors
+CUST01676,South,Low,60,Bachelors
+CUST01677,South,Medium,50,PhD
+CUST01678,East,Medium,25,PhD
+CUST01679,North,Low,30,Masters
+CUST01680,South,Medium,43,High School
+CUST01681,East,Medium,73,Bachelors
+CUST01682,East,High,34,PhD
+CUST01683,South,Medium,41,High School
+CUST01684,North,Low,41,Masters
+CUST01685,West,Low,29,High School
+CUST01686,East,High,48,Bachelors
+CUST01687,South,Medium,33,PhD
+CUST01688,North,Low,59,Bachelors
+CUST01689,North,Low,33,High School
+CUST01690,South,Medium,47,PhD
+CUST01691,East,Medium,45,Masters
+CUST01692,West,Low,20,Masters
+CUST01693,North,Medium,50,PhD
+CUST01694,West,Low,68,Masters
+CUST01695,North,Low,41,Masters
+CUST01696,North,Low,47,PhD
+CUST01697,North,Medium,57,Bachelors
+CUST01698,East,Medium,65,High School
+CUST01699,East,Medium,45,Bachelors
+CUST01700,South,Low,64,High School
+CUST01701,West,High,56,High School
+CUST01702,West,Low,19,PhD
+CUST01703,South,Medium,30,Masters
+CUST01704,East,Medium,54,Masters
+CUST01705,West,Low,27,High School
+CUST01706,South,Low,57,High School
+CUST01707,North,High,30,PhD
+CUST01708,West,Medium,36,High School
+CUST01709,East,Low,23,Bachelors
+CUST01710,West,High,35,High School
+CUST01711,North,Low,57,Bachelors
+CUST01712,East,Low,26,PhD
+CUST01713,East,Medium,34,High School
+CUST01714,South,Medium,21,Masters
+CUST01715,East,Low,71,PhD
+CUST01716,South,Low,67,High School
+CUST01717,East,Medium,23,High School
+CUST01718,North,Medium,28,Bachelors
+CUST01719,North,High,72,High School
+CUST01720,North,Medium,71,Bachelors
+CUST01721,North,Medium,59,Bachelors
+CUST01722,North,Low,43,Masters
+CUST01723,West,High,28,Masters
+CUST01724,North,Low,25,Masters
+CUST01725,East,Medium,70,PhD
+CUST01726,South,High,20,Masters
+CUST01727,West,Medium,19,Bachelors
+CUST01728,East,Medium,35,High School
+CUST01729,North,Medium,19,Bachelors
+CUST01730,North,High,43,Masters
+CUST01731,East,Medium,29,High School
+CUST01732,West,Medium,54,Bachelors
+CUST01733,South,Medium,43,High School
+CUST01734,South,Low,53,Bachelors
+CUST01735,South,Medium,33,High School
+CUST01736,South,Low,31,High School
+CUST01737,North,Medium,19,Masters
+CUST01738,West,Medium,38,PhD
+CUST01739,North,Low,24,Masters
+CUST01740,West,Low,70,High School
+CUST01741,South,Low,28,High School
+CUST01742,East,Low,73,Masters
+CUST01743,East,Medium,61,Bachelors
+CUST01744,North,High,71,High School
+CUST01745,East,Medium,46,Bachelors
+CUST01746,North,Low,74,Masters
+CUST01747,North,Low,54,PhD
+CUST01748,West,Medium,73,PhD
+CUST01749,South,Medium,65,High School
+CUST01750,South,Medium,71,Bachelors
+CUST01751,South,Low,56,Masters
+CUST01752,South,Low,45,High School
+CUST01753,West,Low,57,PhD
+CUST01754,South,Medium,21,PhD
+CUST01755,South,Medium,21,Bachelors
+CUST01756,East,High,44,High School
+CUST01757,South,Medium,23,Bachelors
+CUST01758,South,Medium,51,Bachelors
+CUST01759,North,High,58,High School
+CUST01760,North,Medium,57,Masters
+CUST01761,South,Medium,35,PhD
+CUST01762,North,High,61,High School
+CUST01763,East,Low,65,PhD
+CUST01764,East,Low,47,Masters
+CUST01765,East,High,50,PhD
+CUST01766,West,Medium,37,PhD
+CUST01767,East,Medium,53,Bachelors
+CUST01768,South,Medium,63,Bachelors
+CUST01769,East,Low,67,Bachelors
+CUST01770,East,Medium,22,Masters
+CUST01771,East,Medium,52,Bachelors
+CUST01772,East,Low,36,PhD
+CUST01773,North,Low,29,PhD
+CUST01774,East,Medium,43,PhD
+CUST01775,East,Low,36,High School
+CUST01776,North,Low,69,PhD
+CUST01777,North,Low,28,Bachelors
+CUST01778,West,Medium,70,Masters
+CUST01779,South,High,37,Masters
+CUST01780,West,Medium,26,PhD
+CUST01781,North,Medium,37,PhD
+CUST01782,North,High,44,High School
+CUST01783,North,Low,72,PhD
+CUST01784,West,Low,22,PhD
+CUST01785,East,Low,27,PhD
+CUST01786,South,Low,26,High School
+CUST01787,South,Low,42,Masters
+CUST01788,East,Low,30,PhD
+CUST01789,South,Low,49,Masters
+CUST01790,East,Medium,25,High School
+CUST01791,West,Low,71,High School
+CUST01792,North,Medium,62,PhD
+CUST01793,East,Medium,44,High School
+CUST01794,East,Low,39,High School
+CUST01795,North,Medium,45,Masters
+CUST01796,North,Medium,35,Bachelors
+CUST01797,South,Low,40,Masters
+CUST01798,East,Low,58,PhD
+CUST01799,North,Medium,48,High School
+CUST01800,South,Medium,58,PhD
+CUST01801,West,Medium,51,Masters
+CUST01802,East,Low,74,High School
+CUST01803,West,Medium,24,PhD
+CUST01804,North,Medium,22,PhD
+CUST01805,North,High,38,Masters
+CUST01806,East,Medium,23,PhD
+CUST01807,West,Low,62,High School
+CUST01808,North,Low,73,PhD
+CUST01809,East,Low,67,High School
+CUST01810,East,Medium,52,PhD
+CUST01811,East,Low,59,Masters
+CUST01812,North,Medium,40,High School
+CUST01813,North,Medium,20,PhD
+CUST01814,East,Low,50,Bachelors
+CUST01815,South,Medium,55,High School
+CUST01816,East,Medium,40,High School
+CUST01817,East,Medium,33,High School
+CUST01818,East,High,42,Bachelors
+CUST01819,South,Medium,66,Masters
+CUST01820,West,Low,33,PhD
+CUST01821,North,Medium,42,Bachelors
+CUST01822,North,Medium,59,PhD
+CUST01823,West,Medium,24,Bachelors
+CUST01824,East,Medium,25,Bachelors
+CUST01825,East,Low,20,PhD
+CUST01826,North,Low,22,PhD
+CUST01827,East,Medium,36,PhD
+CUST01828,West,Low,24,Masters
+CUST01829,North,Medium,67,High School
+CUST01830,South,Low,39,Bachelors
+CUST01831,East,Medium,43,High School
+CUST01832,West,Medium,67,PhD
+CUST01833,North,Medium,42,PhD
+CUST01834,North,Medium,23,Bachelors
+CUST01835,South,Medium,22,Bachelors
+CUST01836,East,Low,55,Bachelors
+CUST01837,South,Low,55,Bachelors
+CUST01838,West,Medium,39,Bachelors
+CUST01839,North,High,48,PhD
+CUST01840,North,Low,39,Bachelors
+CUST01841,South,Low,74,Masters
+CUST01842,South,Low,72,High School
+CUST01843,South,High,28,High School
+CUST01844,East,Low,49,Masters
+CUST01845,North,Low,34,Bachelors
+CUST01846,East,Low,58,PhD
+CUST01847,West,Medium,39,PhD
+CUST01848,East,High,33,Masters
+CUST01849,South,Low,59,Masters
+CUST01850,West,Low,32,Masters
+CUST01851,West,Medium,25,High School
+CUST01852,East,Low,63,Masters
+CUST01853,East,Low,65,PhD
+CUST01854,South,High,68,Bachelors
+CUST01855,South,High,20,PhD
+CUST01856,West,High,30,Masters
+CUST01857,South,Medium,47,PhD
+CUST01858,North,Low,45,High School
+CUST01859,North,Medium,26,PhD
+CUST01860,West,Low,29,High School
+CUST01861,East,Low,42,Bachelors
+CUST01862,East,Low,54,Masters
+CUST01863,North,High,38,Bachelors
+CUST01864,East,Medium,68,Masters
+CUST01865,South,Low,56,Bachelors
+CUST01866,North,Low,56,Bachelors
+CUST01867,West,Medium,36,Bachelors
+CUST01868,East,Medium,25,High School
+CUST01869,West,Medium,55,High School
+CUST01870,West,Low,20,PhD
+CUST01871,East,Medium,39,PhD
+CUST01872,East,Medium,18,PhD
+CUST01873,North,High,55,Masters
+CUST01874,North,Low,72,High School
+CUST01875,West,Medium,69,Bachelors
+CUST01876,West,Low,69,PhD
+CUST01877,North,Medium,36,High School
+CUST01878,West,Low,38,High School
+CUST01879,South,Medium,30,Masters
+CUST01880,East,Low,44,Bachelors
+CUST01881,East,Medium,34,High School
+CUST01882,South,Medium,71,High School
+CUST01883,North,High,67,PhD
+CUST01884,North,Medium,37,Masters
+CUST01885,West,Low,47,Masters
+CUST01886,West,Low,55,Bachelors
+CUST01887,North,Medium,28,Masters
+CUST01888,West,Medium,44,Bachelors
+CUST01889,South,Low,55,Bachelors
+CUST01890,East,Medium,45,PhD
+CUST01891,South,Low,43,PhD
+CUST01892,East,High,56,High School
+CUST01893,East,Low,50,PhD
+CUST01894,West,Low,49,High School
+CUST01895,West,Low,71,High School
+CUST01896,East,Medium,42,High School
+CUST01897,West,Low,41,High School
+CUST01898,South,Medium,57,Bachelors
+CUST01899,North,Low,44,High School
+CUST01900,West,Low,63,High School
+CUST01901,West,High,39,High School
+CUST01902,West,High,37,Bachelors
+CUST01903,North,Medium,50,Masters
+CUST01904,South,Medium,22,Masters
+CUST01905,East,Low,46,High School
+CUST01906,South,Low,22,Masters
+CUST01907,West,Low,63,PhD
+CUST01908,North,High,56,PhD
+CUST01909,South,Medium,34,PhD
+CUST01910,West,Low,46,PhD
+CUST01911,West,Low,28,Bachelors
+CUST01912,East,Low,39,High School
+CUST01913,North,Low,48,Bachelors
+CUST01914,East,Medium,56,Bachelors
+CUST01915,South,Low,18,High School
+CUST01916,East,Low,32,Bachelors
+CUST01917,South,Low,36,High School
+CUST01918,West,Medium,27,Bachelors
+CUST01919,North,Medium,26,Masters
+CUST01920,North,Medium,30,Masters
+CUST01921,West,Medium,73,PhD
+CUST01922,North,Low,62,Masters
+CUST01923,East,Low,43,PhD
+CUST01924,South,Medium,23,PhD
+CUST01925,South,Low,57,PhD
+CUST01926,South,Medium,61,Bachelors
+CUST01927,East,High,19,High School
+CUST01928,South,Medium,46,Masters
+CUST01929,North,Low,65,High School
+CUST01930,South,High,29,Masters
+CUST01931,East,Low,40,Masters
+CUST01932,North,Medium,67,Bachelors
+CUST01933,West,Low,20,Masters
+CUST01934,North,Medium,67,High School
+CUST01935,East,Medium,28,High School
+CUST01936,North,Medium,22,Masters
+CUST01937,South,Medium,62,High School
+CUST01938,East,High,27,PhD
+CUST01939,West,Low,70,High School
+CUST01940,South,Medium,71,PhD
+CUST01941,East,Low,64,PhD
+CUST01942,East,Low,23,High School
+CUST01943,West,High,33,PhD
+CUST01944,West,Medium,48,High School
+CUST01945,East,Low,40,High School
+CUST01946,West,Medium,47,Masters
+CUST01947,West,Low,57,High School
+CUST01948,South,Medium,37,High School
+CUST01949,East,Medium,42,Masters
+CUST01950,North,High,52,Bachelors
+CUST01951,South,Low,22,High School
+CUST01952,East,Low,64,Bachelors
+CUST01953,East,Low,20,Bachelors
+CUST01954,South,Low,64,Masters
+CUST01955,West,High,51,Bachelors
+CUST01956,North,High,29,Bachelors
+CUST01957,North,Medium,44,PhD
+CUST01958,East,Medium,22,Bachelors
+CUST01959,East,Medium,58,Masters
+CUST01960,North,Low,39,High School
+CUST01961,East,Low,21,PhD
+CUST01962,North,Low,72,Masters
+CUST01963,West,Medium,70,Masters
+CUST01964,North,Medium,45,PhD
+CUST01965,North,Medium,24,PhD
+CUST01966,North,Low,65,Masters
+CUST01967,East,Medium,62,High School
+CUST01968,West,High,51,Bachelors
+CUST01969,South,Low,19,High School
+CUST01970,South,Medium,26,Bachelors
+CUST01971,North,Low,32,High School
+CUST01972,East,Medium,48,PhD
+CUST01973,South,Medium,53,PhD
+CUST01974,South,Low,66,PhD
+CUST01975,North,Medium,58,Masters
+CUST01976,North,Low,32,Masters
+CUST01977,East,High,50,Bachelors
+CUST01978,South,High,48,PhD
+CUST01979,North,Medium,44,Masters
+CUST01980,West,Low,19,Masters
+CUST01981,West,Medium,26,PhD
+CUST01982,West,Medium,60,High School
+CUST01983,North,Low,68,PhD
+CUST01984,East,Low,18,Bachelors
+CUST01985,West,High,36,PhD
+CUST01986,West,Medium,26,High School
+CUST01987,West,Medium,19,High School
+CUST01988,North,Medium,54,PhD
+CUST01989,North,Medium,66,Masters
+CUST01990,North,Medium,18,High School
+CUST01991,West,Low,63,Bachelors
+CUST01992,North,Medium,29,Masters
+CUST01993,North,High,72,Bachelors
+CUST01994,East,High,43,Bachelors
+CUST01995,North,Medium,27,Bachelors
+CUST01996,South,Medium,68,Bachelors
+CUST01997,North,Medium,64,High School
+CUST01998,North,High,18,Masters
+CUST01999,South,Medium,18,PhD
+CUST02000,South,Low,60,High School
+CUST02001,North,Medium,48,Masters
+CUST02002,East,High,28,PhD
+CUST02003,West,Low,22,PhD
+CUST02004,South,Medium,52,High School
+CUST02005,East,Low,28,Masters
+CUST02006,North,High,21,Bachelors
+CUST02007,North,Medium,55,Bachelors
+CUST02008,South,Medium,67,PhD
+CUST02009,South,Medium,56,High School
+CUST02010,East,Medium,38,High School
+CUST02011,North,High,73,Bachelors
+CUST02012,South,High,53,High School
+CUST02013,South,Low,63,High School
+CUST02014,West,Low,45,Masters
+CUST02015,South,Medium,25,Masters
+CUST02016,East,High,37,PhD
+CUST02017,North,Low,60,Masters
+CUST02018,South,Low,63,High School
+CUST02019,West,Low,38,Bachelors
+CUST02020,South,Low,52,Bachelors
+CUST02021,South,Medium,60,Bachelors
+CUST02022,North,Low,49,PhD
+CUST02023,West,Low,53,Bachelors
+CUST02024,East,High,58,Masters
+CUST02025,East,Low,22,Masters
+CUST02026,North,Medium,62,High School
+CUST02027,East,Low,69,PhD
+CUST02028,East,Medium,21,Bachelors
+CUST02029,South,Low,24,High School
+CUST02030,East,Low,51,Bachelors
+CUST02031,West,Medium,37,Bachelors
+CUST02032,South,High,68,High School
+CUST02033,East,Medium,24,Masters
+CUST02034,West,Low,69,High School
+CUST02035,South,Medium,41,PhD
+CUST02036,West,Low,38,High School
+CUST02037,North,High,74,Bachelors
+CUST02038,North,Low,26,Masters
+CUST02039,East,Medium,36,High School
+CUST02040,West,Low,74,Masters
+CUST02041,South,Medium,37,Masters
+CUST02042,West,Medium,74,Masters
+CUST02043,West,Medium,45,Masters
+CUST02044,North,Low,49,Bachelors
+CUST02045,North,High,51,Bachelors
+CUST02046,East,Medium,70,Bachelors
+CUST02047,West,Medium,33,Bachelors
+CUST02048,West,Medium,55,Bachelors
+CUST02049,South,Medium,68,PhD
+CUST02050,South,Low,67,PhD
+CUST02051,North,High,34,High School
+CUST02052,West,Low,28,Masters
+CUST02053,East,Medium,72,PhD
+CUST02054,North,Medium,21,Bachelors
+CUST02055,West,Medium,73,Masters
+CUST02056,North,High,57,Bachelors
+CUST02057,East,Low,73,Bachelors
+CUST02058,West,Medium,67,High School
+CUST02059,East,Medium,62,Masters
+CUST02060,West,Low,70,Bachelors
+CUST02061,West,Medium,57,Bachelors
+CUST02062,East,Medium,59,High School
+CUST02063,South,Low,35,Masters
+CUST02064,East,Medium,67,PhD
+CUST02065,East,Medium,66,Masters
+CUST02066,North,Medium,65,Bachelors
+CUST02067,East,High,23,PhD
+CUST02068,East,Low,63,High School
+CUST02069,North,Medium,49,High School
+CUST02070,South,Medium,22,Bachelors
+CUST02071,East,Low,32,Masters
+CUST02072,North,High,62,Bachelors
+CUST02073,South,Low,33,Masters
+CUST02074,South,Low,65,High School
+CUST02075,East,Medium,34,Bachelors
+CUST02076,South,Low,73,Bachelors
+CUST02077,East,Medium,73,PhD
+CUST02078,South,Medium,54,Bachelors
+CUST02079,South,Low,60,Masters
+CUST02080,South,Low,32,PhD
+CUST02081,East,Low,52,Masters
+CUST02082,South,Low,25,PhD
+CUST02083,West,Low,52,High School
+CUST02084,North,High,53,Masters
+CUST02085,North,Medium,44,Masters
+CUST02086,West,Low,31,Bachelors
+CUST02087,South,High,72,High School
+CUST02088,West,Low,40,PhD
+CUST02089,East,Medium,37,PhD
+CUST02090,North,Low,74,High School
+CUST02091,South,Low,23,Bachelors
+CUST02092,North,Medium,41,Masters
+CUST02093,West,Medium,40,Masters
+CUST02094,West,Medium,53,Bachelors
+CUST02095,North,Medium,29,PhD
+CUST02096,North,Low,19,Bachelors
+CUST02097,North,Medium,44,Masters
+CUST02098,North,Medium,49,High School
+CUST02099,West,Low,46,PhD
+CUST02100,South,Low,67,Bachelors
+CUST02101,North,Medium,63,Masters
+CUST02102,South,Medium,57,PhD
+CUST02103,North,Medium,57,Bachelors
+CUST02104,East,Medium,61,High School
+CUST02105,South,High,50,PhD
+CUST02106,East,Low,46,High School
+CUST02107,West,Medium,50,Masters
+CUST02108,East,Medium,53,PhD
+CUST02109,West,Medium,34,High School
+CUST02110,North,Low,27,Bachelors
+CUST02111,West,Medium,18,High School
+CUST02112,North,Medium,60,Masters
+CUST02113,North,Medium,70,Bachelors
+CUST02114,North,Low,34,High School
+CUST02115,West,Medium,59,PhD
+CUST02116,North,High,45,High School
+CUST02117,East,High,55,PhD
+CUST02118,East,Medium,53,PhD
+CUST02119,North,Medium,62,High School
+CUST02120,North,Low,44,Masters
+CUST02121,South,Medium,60,PhD
+CUST02122,West,Low,54,Masters
+CUST02123,South,Medium,63,PhD
+CUST02124,East,Low,42,PhD
+CUST02125,West,Medium,51,High School
+CUST02126,East,Medium,20,PhD
+CUST02127,West,High,46,Bachelors
+CUST02128,West,Medium,52,High School
+CUST02129,West,Medium,60,Bachelors
+CUST02130,East,Medium,58,Bachelors
+CUST02131,North,Low,68,PhD
+CUST02132,East,Low,27,Masters
+CUST02133,West,Low,70,High School
+CUST02134,East,Low,55,Masters
+CUST02135,East,High,71,High School
+CUST02136,South,Low,55,Bachelors
+CUST02137,West,Medium,18,PhD
+CUST02138,East,Low,71,PhD
+CUST02139,West,High,18,PhD
+CUST02140,East,Low,49,Masters
+CUST02141,South,Medium,39,PhD
+CUST02142,East,Medium,71,PhD
+CUST02143,North,Medium,36,Masters
+CUST02144,West,Low,52,Masters
+CUST02145,South,Medium,23,PhD
+CUST02146,East,Medium,51,PhD
+CUST02147,South,Low,32,Bachelors
+CUST02148,East,Low,61,PhD
+CUST02149,West,Medium,70,Masters
+CUST02150,East,Low,59,High School
+CUST02151,South,High,68,PhD
+CUST02152,North,Low,70,High School
+CUST02153,South,Medium,62,PhD
+CUST02154,North,Medium,20,PhD
+CUST02155,North,Medium,67,Bachelors
+CUST02156,West,Low,69,PhD
+CUST02157,South,High,54,Masters
+CUST02158,East,Medium,39,PhD
+CUST02159,North,Medium,62,High School
+CUST02160,South,Medium,46,PhD
+CUST02161,West,Medium,31,Masters
+CUST02162,East,High,47,PhD
+CUST02163,East,High,32,High School
+CUST02164,East,Low,67,PhD
+CUST02165,South,Low,46,Bachelors
+CUST02166,South,High,31,PhD
+CUST02167,East,Low,68,High School
+CUST02168,West,High,20,High School
+CUST02169,East,Medium,39,High School
+CUST02170,East,Low,50,Bachelors
+CUST02171,West,Low,40,PhD
+CUST02172,West,Medium,73,High School
+CUST02173,West,Medium,24,Bachelors
+CUST02174,East,Low,37,Bachelors
+CUST02175,West,Low,24,High School
+CUST02176,South,High,34,Masters
+CUST02177,West,Low,49,PhD
+CUST02178,East,Medium,32,High School
+CUST02179,North,Medium,30,PhD
+CUST02180,North,Low,73,Bachelors
+CUST02181,South,Low,64,PhD
+CUST02182,North,Low,20,Masters
+CUST02183,North,Low,42,PhD
+CUST02184,North,Medium,66,High School
+CUST02185,South,Medium,49,High School
+CUST02186,North,Medium,33,High School
+CUST02187,East,Medium,71,PhD
+CUST02188,North,Low,18,High School
+CUST02189,West,Low,73,PhD
+CUST02190,North,Low,63,PhD
+CUST02191,North,Medium,20,High School
+CUST02192,East,High,37,Masters
+CUST02193,South,Low,45,High School
+CUST02194,South,Medium,39,Bachelors
+CUST02195,North,Medium,53,Bachelors
+CUST02196,East,Medium,73,Masters
+CUST02197,North,High,58,Bachelors
+CUST02198,South,Low,70,Masters
+CUST02199,South,Low,18,PhD
+CUST02200,West,Low,73,Bachelors
+CUST02201,West,Low,31,Masters
+CUST02202,East,Medium,62,High School
+CUST02203,East,High,32,Bachelors
+CUST02204,South,Medium,49,Bachelors
+CUST02205,South,Low,35,Masters
+CUST02206,South,Low,65,PhD
+CUST02207,North,High,55,Masters
+CUST02208,West,Medium,39,Masters
+CUST02209,West,High,33,Bachelors
+CUST02210,South,Medium,28,Masters
+CUST02211,South,High,24,High School
+CUST02212,West,High,26,Masters
+CUST02213,East,Medium,18,High School
+CUST02214,South,Medium,59,High School
+CUST02215,South,Medium,25,Masters
+CUST02216,East,Low,28,PhD
+CUST02217,South,Low,22,High School
+CUST02218,West,Low,46,High School
+CUST02219,West,Low,23,High School
+CUST02220,East,Low,73,PhD
+CUST02221,West,Medium,73,Masters
+CUST02222,East,High,29,PhD
+CUST02223,East,Medium,60,Masters
+CUST02224,West,Medium,56,High School
+CUST02225,East,Low,24,Bachelors
+CUST02226,West,Low,61,High School
+CUST02227,East,Medium,29,Masters
+CUST02228,East,Medium,50,PhD
+CUST02229,East,Low,73,High School
+CUST02230,West,Medium,36,High School
+CUST02231,South,Medium,70,Masters
+CUST02232,North,Low,53,Masters
+CUST02233,South,Low,36,Bachelors
+CUST02234,East,Medium,38,High School
+CUST02235,West,Medium,36,High School
+CUST02236,East,Low,74,High School
+CUST02237,South,Low,60,Bachelors
+CUST02238,North,Medium,26,Bachelors
+CUST02239,South,Low,62,High School
+CUST02240,West,Medium,39,Masters
+CUST02241,West,Low,36,PhD
+CUST02242,South,Low,54,High School
+CUST02243,South,Low,28,High School
+CUST02244,North,High,73,High School
+CUST02245,East,Medium,42,Masters
+CUST02246,West,High,52,Bachelors
+CUST02247,West,Medium,22,PhD
+CUST02248,North,Medium,62,PhD
+CUST02249,West,High,48,Bachelors
+CUST02250,West,Low,31,High School
+CUST02251,South,High,30,High School
+CUST02252,South,High,51,PhD
+CUST02253,North,High,51,PhD
+CUST02254,West,High,35,High School
+CUST02255,North,Medium,23,Masters
+CUST02256,East,High,68,High School
+CUST02257,East,Medium,59,Masters
+CUST02258,North,Medium,38,High School
+CUST02259,West,Low,57,PhD
+CUST02260,East,Medium,22,High School
+CUST02261,West,Medium,19,High School
+CUST02262,South,Medium,23,Bachelors
+CUST02263,North,Medium,67,High School
+CUST02264,East,Medium,25,High School
+CUST02265,West,Medium,19,High School
+CUST02266,South,Low,40,PhD
+CUST02267,North,Low,37,High School
+CUST02268,East,Medium,21,Masters
+CUST02269,South,Medium,32,Masters
+CUST02270,North,Low,47,High School
+CUST02271,East,Low,73,PhD
+CUST02272,West,Low,37,Masters
+CUST02273,South,Medium,41,High School
+CUST02274,South,Medium,26,High School
+CUST02275,West,Low,73,Masters
+CUST02276,South,Medium,69,PhD
+CUST02277,South,Low,38,PhD
+CUST02278,North,Medium,55,Masters
+CUST02279,West,Low,58,High School
+CUST02280,South,High,30,PhD
+CUST02281,West,Low,22,Bachelors
+CUST02282,North,Medium,63,High School
+CUST02283,North,Medium,31,PhD
+CUST02284,West,Low,67,High School
+CUST02285,West,Low,24,Bachelors
+CUST02286,East,Low,23,Masters
+CUST02287,North,Medium,29,Bachelors
+CUST02288,South,Low,63,High School
+CUST02289,North,Medium,68,Masters
+CUST02290,North,Medium,33,Bachelors
+CUST02291,East,Low,73,PhD
+CUST02292,West,Low,68,Bachelors
+CUST02293,North,High,49,High School
+CUST02294,East,Low,59,PhD
+CUST02295,West,Low,28,Bachelors
+CUST02296,North,Medium,21,High School
+CUST02297,East,Low,74,Masters
+CUST02298,North,Medium,46,Bachelors
+CUST02299,South,Low,69,Masters
+CUST02300,West,High,51,PhD
+CUST02301,West,Medium,26,Masters
+CUST02302,North,High,27,High School
+CUST02303,East,Low,25,PhD
+CUST02304,East,Low,53,Bachelors
+CUST02305,South,High,49,Masters
+CUST02306,South,Low,62,PhD
+CUST02307,East,Medium,23,PhD
+CUST02308,West,Low,23,Bachelors
+CUST02309,South,High,44,Bachelors
+CUST02310,North,Low,19,Bachelors
+CUST02311,North,Medium,26,Bachelors
+CUST02312,West,Medium,55,Masters
+CUST02313,West,Low,22,PhD
+CUST02314,South,Low,51,Bachelors
+CUST02315,North,High,31,PhD
+CUST02316,West,Medium,27,PhD
+CUST02317,North,Medium,64,High School
+CUST02318,South,Medium,66,High School
+CUST02319,West,Low,24,Bachelors
+CUST02320,East,Medium,37,Bachelors
+CUST02321,North,Medium,28,High School
+CUST02322,West,Medium,30,PhD
+CUST02323,South,Low,72,Bachelors
+CUST02324,East,High,70,Masters
+CUST02325,West,Low,34,Bachelors
+CUST02326,North,Low,54,Bachelors
+CUST02327,North,High,61,Masters
+CUST02328,South,Medium,53,Bachelors
+CUST02329,North,Low,50,PhD
+CUST02330,East,Medium,27,Masters
+CUST02331,South,Medium,51,Masters
+CUST02332,South,Low,62,High School
+CUST02333,West,Medium,30,PhD
+CUST02334,South,Low,42,High School
+CUST02335,West,Low,61,PhD
+CUST02336,South,Low,50,Bachelors
+CUST02337,West,Medium,27,High School
+CUST02338,West,Low,69,Bachelors
+CUST02339,West,High,41,Bachelors
+CUST02340,East,Medium,22,High School
+CUST02341,West,Low,27,High School
+CUST02342,East,Medium,56,Bachelors
+CUST02343,West,Medium,64,Bachelors
+CUST02344,West,Medium,44,PhD
+CUST02345,East,Low,67,Bachelors
+CUST02346,East,Low,69,Masters
+CUST02347,East,High,53,Bachelors
+CUST02348,East,Low,50,Bachelors
+CUST02349,West,Low,45,Bachelors
+CUST02350,West,Medium,57,High School
+CUST02351,South,Low,60,High School
+CUST02352,South,High,20,Masters
+CUST02353,West,High,48,Bachelors
+CUST02354,South,Medium,46,PhD
+CUST02355,East,Medium,61,PhD
+CUST02356,South,Medium,62,Bachelors
+CUST02357,East,Medium,69,Bachelors
+CUST02358,West,Medium,67,Bachelors
+CUST02359,South,Low,61,Bachelors
+CUST02360,East,High,59,Bachelors
+CUST02361,West,High,38,High School
+CUST02362,West,High,49,Masters
+CUST02363,East,Medium,45,High School
+CUST02364,East,Medium,38,PhD
+CUST02365,West,Low,64,High School
+CUST02366,North,Low,52,High School
+CUST02367,North,Low,47,Masters
+CUST02368,East,Low,73,PhD
+CUST02369,South,Medium,64,PhD
+CUST02370,East,Medium,34,Bachelors
+CUST02371,West,Low,46,Masters
+CUST02372,East,Medium,65,High School
+CUST02373,North,Low,19,High School
+CUST02374,East,Medium,50,High School
+CUST02375,North,High,71,PhD
+CUST02376,South,Medium,21,PhD
+CUST02377,South,Low,66,High School
+CUST02378,South,Medium,56,PhD
+CUST02379,East,Medium,42,Bachelors
+CUST02380,North,Medium,22,High School
+CUST02381,East,High,72,High School
+CUST02382,South,Low,21,Bachelors
+CUST02383,East,Low,69,PhD
+CUST02384,North,Low,69,High School
+CUST02385,West,Medium,46,Bachelors
+CUST02386,North,Medium,54,Masters
+CUST02387,South,Low,25,Bachelors
+CUST02388,South,Low,37,High School
+CUST02389,South,Medium,72,Bachelors
+CUST02390,East,High,58,PhD
+CUST02391,North,Low,23,High School
+CUST02392,East,Low,53,High School
+CUST02393,South,Medium,49,PhD
+CUST02394,North,Low,22,PhD
+CUST02395,West,Medium,57,PhD
+CUST02396,South,Medium,37,Masters
+CUST02397,North,Medium,62,High School
+CUST02398,North,High,21,High School
+CUST02399,South,Low,56,High School
+CUST02400,West,Medium,39,Bachelors
+CUST02401,North,High,50,High School
+CUST02402,North,Low,48,High School
+CUST02403,West,Low,58,PhD
+CUST02404,South,Medium,46,PhD
+CUST02405,North,Medium,22,PhD
+CUST02406,South,Low,27,High School
+CUST02407,East,Medium,28,PhD
+CUST02408,East,Medium,67,Masters
+CUST02409,West,Low,54,PhD
+CUST02410,South,Medium,73,Masters
+CUST02411,North,Medium,39,Bachelors
+CUST02412,West,High,41,Masters
+CUST02413,East,Medium,38,Masters
+CUST02414,South,Medium,53,Bachelors
+CUST02415,West,Medium,68,Masters
+CUST02416,West,Low,33,High School
+CUST02417,South,Medium,19,High School
+CUST02418,North,Medium,32,PhD
+CUST02419,North,Medium,58,PhD
+CUST02420,North,Medium,66,PhD
+CUST02421,South,Medium,43,PhD
+CUST02422,East,Low,47,High School
+CUST02423,West,High,19,PhD
+CUST02424,South,Low,71,Masters
+CUST02425,North,High,46,Bachelors
+CUST02426,North,Medium,23,Masters
+CUST02427,West,Low,18,Bachelors
+CUST02428,West,High,57,High School
+CUST02429,West,Medium,28,Bachelors
+CUST02430,West,Medium,69,PhD
+CUST02431,West,Low,40,High School
+CUST02432,South,High,43,PhD
+CUST02433,North,Medium,48,Masters
+CUST02434,North,Medium,32,Masters
+CUST02435,South,High,26,PhD
+CUST02436,East,Medium,51,Bachelors
+CUST02437,North,Low,56,Masters
+CUST02438,East,Medium,34,Bachelors
+CUST02439,East,Medium,52,Masters
+CUST02440,East,High,53,PhD
+CUST02441,East,Low,20,PhD
+CUST02442,North,Medium,57,Masters
+CUST02443,North,Medium,28,Masters
+CUST02444,South,Low,45,Bachelors
+CUST02445,North,Low,65,Bachelors
+CUST02446,South,Medium,45,Bachelors
+CUST02447,East,Medium,63,PhD
+CUST02448,South,Medium,72,Masters
+CUST02449,South,Medium,36,High School
+CUST02450,North,Medium,72,Bachelors
+CUST02451,South,Medium,19,High School
+CUST02452,East,Low,49,PhD
+CUST02453,North,Low,61,Bachelors
+CUST02454,North,Medium,28,Bachelors
+CUST02455,North,Medium,33,High School
+CUST02456,West,Medium,28,High School
+CUST02457,East,Medium,20,Masters
+CUST02458,South,Medium,72,High School
+CUST02459,West,Low,59,PhD
+CUST02460,North,Medium,46,Bachelors
+CUST02461,West,Medium,22,High School
+CUST02462,West,Medium,45,PhD
+CUST02463,South,Medium,48,High School
+CUST02464,East,Medium,30,High School
+CUST02465,West,Low,42,High School
+CUST02466,East,Low,73,Masters
+CUST02467,East,Low,23,Bachelors
+CUST02468,North,Medium,69,Bachelors
+CUST02469,North,Medium,20,Bachelors
+CUST02470,South,Low,39,Masters
+CUST02471,South,High,58,High School
+CUST02472,West,Medium,70,Bachelors
+CUST02473,North,Low,56,Bachelors
+CUST02474,East,Medium,72,High School
+CUST02475,East,Medium,49,Bachelors
+CUST02476,West,Medium,47,High School
+CUST02477,North,Medium,24,Masters
+CUST02478,South,Low,42,Bachelors
+CUST02479,West,Low,19,Bachelors
+CUST02480,East,Low,25,High School
+CUST02481,North,Low,67,PhD
+CUST02482,South,Medium,50,Masters
+CUST02483,South,Medium,45,Bachelors
+CUST02484,East,Medium,27,High School
+CUST02485,East,Medium,55,Masters
+CUST02486,East,Low,35,High School
+CUST02487,East,Low,30,PhD
+CUST02488,South,Low,38,Bachelors
+CUST02489,North,Low,50,PhD
+CUST02490,South,Medium,40,Bachelors
+CUST02491,East,Medium,18,PhD
+CUST02492,North,Medium,61,Bachelors
+CUST02493,South,Medium,57,High School
+CUST02494,North,Low,38,Masters
+CUST02495,South,Medium,22,Bachelors
+CUST02496,North,Medium,52,Bachelors
+CUST02497,South,Low,35,High School
+CUST02498,South,High,55,PhD
+CUST02499,West,Low,53,Bachelors
+CUST02500,East,Medium,64,PhD
+CUST02501,West,Medium,46,High School
+CUST02502,South,Medium,43,Bachelors
+CUST02503,East,High,53,Masters
+CUST02504,South,High,55,Bachelors
+CUST02505,West,Medium,67,High School
+CUST02506,North,Medium,35,PhD
+CUST02507,North,Low,46,Bachelors
+CUST02508,East,Medium,48,High School
+CUST02509,West,High,59,High School
+CUST02510,West,Medium,30,High School
+CUST02511,South,Low,69,PhD
+CUST02512,East,Low,71,PhD
+CUST02513,North,Medium,67,Masters
+CUST02514,West,Low,47,Masters
+CUST02515,South,Low,24,Bachelors
+CUST02516,East,Low,57,High School
+CUST02517,West,Low,74,Masters
+CUST02518,West,Low,23,PhD
+CUST02519,North,High,19,High School
+CUST02520,West,Medium,71,Bachelors
+CUST02521,North,Medium,25,High School
+CUST02522,West,Medium,27,Masters
+CUST02523,South,Low,66,Masters
+CUST02524,South,Medium,71,High School
+CUST02525,South,High,61,PhD
+CUST02526,East,Low,60,High School
+CUST02527,East,Low,66,High School
+CUST02528,South,Medium,65,High School
+CUST02529,South,Low,39,High School
+CUST02530,South,High,27,High School
+CUST02531,North,Medium,69,PhD
+CUST02532,South,Low,52,Bachelors
+CUST02533,East,Medium,36,Bachelors
+CUST02534,North,Medium,21,Masters
+CUST02535,South,Low,36,PhD
+CUST02536,East,High,58,High School
+CUST02537,North,Low,37,PhD
+CUST02538,North,High,66,Bachelors
+CUST02539,East,Low,21,High School
+CUST02540,East,Medium,66,PhD
+CUST02541,North,Low,43,Masters
+CUST02542,East,Medium,20,Bachelors
+CUST02543,North,Medium,69,High School
+CUST02544,North,Low,47,High School
+CUST02545,North,Medium,53,High School
+CUST02546,North,Low,58,High School
+CUST02547,South,Medium,23,High School
+CUST02548,East,Medium,68,High School
+CUST02549,South,Medium,56,PhD
+CUST02550,South,Low,44,Masters
+CUST02551,South,Low,33,PhD
+CUST02552,South,Medium,64,PhD
+CUST02553,North,High,33,High School
+CUST02554,North,High,63,High School
+CUST02555,North,Medium,53,PhD
+CUST02556,West,High,72,Bachelors
+CUST02557,North,Medium,51,High School
+CUST02558,South,Low,56,High School
+CUST02559,West,Low,41,Bachelors
+CUST02560,West,Low,56,PhD
+CUST02561,West,Low,23,Bachelors
+CUST02562,North,Medium,37,High School
+CUST02563,South,Medium,26,Masters
+CUST02564,North,Medium,66,Bachelors
+CUST02565,East,Low,38,Bachelors
+CUST02566,West,Medium,28,High School
+CUST02567,East,Medium,65,Bachelors
+CUST02568,West,Medium,47,High School
+CUST02569,West,High,18,Masters
+CUST02570,East,Low,44,Masters
+CUST02571,East,Low,65,PhD
+CUST02572,North,Medium,66,High School
+CUST02573,East,High,23,Masters
+CUST02574,East,Low,71,High School
+CUST02575,South,Medium,60,Bachelors
+CUST02576,East,High,24,Bachelors
+CUST02577,North,Medium,65,High School
+CUST02578,West,Low,74,High School
+CUST02579,West,Medium,39,Bachelors
+CUST02580,South,Low,51,High School
+CUST02581,North,Low,37,Bachelors
+CUST02582,West,High,62,PhD
+CUST02583,South,Medium,62,PhD
+CUST02584,West,Low,32,PhD
+CUST02585,North,Low,64,High School
+CUST02586,East,Medium,26,Bachelors
+CUST02587,South,Medium,35,Masters
+CUST02588,East,Medium,63,Masters
+CUST02589,North,Medium,72,Bachelors
+CUST02590,North,Medium,63,Bachelors
+CUST02591,West,High,53,Bachelors
+CUST02592,West,High,63,Bachelors
+CUST02593,South,Low,59,Bachelors
+CUST02594,West,Low,47,Masters
+CUST02595,West,Low,28,PhD
+CUST02596,North,Low,71,Bachelors
+CUST02597,North,Low,50,High School
+CUST02598,South,Medium,63,PhD
+CUST02599,East,Low,57,Masters
+CUST02600,South,Low,23,Bachelors
+CUST02601,North,Low,60,High School
+CUST02602,North,Low,63,Masters
+CUST02603,South,Medium,56,PhD
+CUST02604,South,Low,39,PhD
+CUST02605,East,High,56,High School
+CUST02606,North,Low,70,Bachelors
+CUST02607,West,High,36,High School
+CUST02608,North,Low,39,High School
+CUST02609,West,Medium,48,Masters
+CUST02610,West,Low,59,High School
+CUST02611,West,Medium,42,High School
+CUST02612,East,Low,71,PhD
+CUST02613,South,High,58,Masters
+CUST02614,West,Low,67,Bachelors
+CUST02615,South,Low,66,PhD
+CUST02616,West,Medium,47,High School
+CUST02617,East,Medium,62,Bachelors
+CUST02618,West,High,21,Masters
+CUST02619,South,Medium,70,PhD
+CUST02620,East,Medium,43,Bachelors
+CUST02621,South,Medium,24,High School
+CUST02622,South,Medium,57,High School
+CUST02623,South,Medium,65,Bachelors
+CUST02624,West,Low,29,PhD
+CUST02625,East,Medium,18,Bachelors
+CUST02626,East,Medium,23,High School
+CUST02627,East,Medium,18,Masters
+CUST02628,North,High,25,PhD
+CUST02629,North,Medium,61,High School
+CUST02630,East,High,65,High School
+CUST02631,West,Low,50,Bachelors
+CUST02632,North,Low,21,High School
+CUST02633,West,Low,68,PhD
+CUST02634,West,High,67,Bachelors
+CUST02635,North,Low,57,Masters
+CUST02636,South,Low,23,High School
+CUST02637,South,Low,62,PhD
+CUST02638,South,Low,69,PhD
+CUST02639,North,Low,20,Masters
+CUST02640,West,Low,32,PhD
+CUST02641,North,Low,23,PhD
+CUST02642,East,High,23,Masters
+CUST02643,West,Medium,54,High School
+CUST02644,North,Medium,68,PhD
+CUST02645,West,Medium,44,Bachelors
+CUST02646,North,Medium,59,PhD
+CUST02647,East,High,58,Bachelors
+CUST02648,East,High,63,PhD
+CUST02649,East,Low,71,High School
+CUST02650,South,High,22,PhD
+CUST02651,East,Low,56,Bachelors
+CUST02652,South,Low,34,PhD
+CUST02653,West,Low,40,Bachelors
+CUST02654,West,Medium,34,Masters
+CUST02655,West,Medium,58,PhD
+CUST02656,North,Low,71,PhD
+CUST02657,North,Medium,40,Bachelors
+CUST02658,South,Medium,56,Bachelors
+CUST02659,South,Low,50,High School
+CUST02660,South,Medium,19,Masters
+CUST02661,North,Medium,27,Bachelors
+CUST02662,North,Low,36,High School
+CUST02663,West,Low,57,Bachelors
+CUST02664,East,High,26,Masters
+CUST02665,East,High,32,Masters
+CUST02666,North,Low,60,Masters
+CUST02667,East,Medium,41,Masters
+CUST02668,West,Low,29,PhD
+CUST02669,East,Medium,39,Masters
+CUST02670,South,Medium,35,Masters
+CUST02671,West,Low,19,High School
+CUST02672,North,Low,32,Masters
+CUST02673,South,Low,59,Bachelors
+CUST02674,North,Medium,56,Bachelors
+CUST02675,North,High,26,Bachelors
+CUST02676,South,High,39,PhD
+CUST02677,West,High,34,Bachelors
+CUST02678,North,High,31,Masters
+CUST02679,South,Low,48,PhD
+CUST02680,South,Medium,58,Masters
+CUST02681,North,Low,24,High School
+CUST02682,North,High,64,Masters
+CUST02683,West,Medium,52,Bachelors
+CUST02684,South,Medium,51,High School
+CUST02685,East,Medium,20,High School
+CUST02686,East,Low,19,High School
+CUST02687,North,Low,62,High School
+CUST02688,North,High,44,PhD
+CUST02689,West,High,62,Masters
+CUST02690,East,Low,19,High School
+CUST02691,North,Low,69,PhD
+CUST02692,North,Low,71,PhD
+CUST02693,East,High,68,PhD
+CUST02694,North,High,58,Masters
+CUST02695,East,Medium,22,High School
+CUST02696,East,Medium,38,Masters
+CUST02697,West,Medium,24,PhD
+CUST02698,East,Low,42,PhD
+CUST02699,North,High,62,Masters
+CUST02700,South,Medium,18,PhD
+CUST02701,South,Low,26,PhD
+CUST02702,South,Low,19,Bachelors
+CUST02703,West,Medium,20,PhD
+CUST02704,North,Low,61,Masters
+CUST02705,West,Medium,54,High School
+CUST02706,West,High,61,High School
+CUST02707,West,Medium,21,Masters
+CUST02708,North,Medium,38,Masters
+CUST02709,North,Medium,43,PhD
+CUST02710,North,Low,70,Masters
+CUST02711,South,Medium,61,Masters
+CUST02712,East,Low,54,PhD
+CUST02713,North,High,31,Bachelors
+CUST02714,North,High,63,Bachelors
+CUST02715,West,Low,27,PhD
+CUST02716,North,Medium,43,Bachelors
+CUST02717,East,Medium,27,Bachelors
+CUST02718,South,High,54,PhD
+CUST02719,North,Medium,35,Bachelors
+CUST02720,South,Medium,44,Masters
+CUST02721,North,Medium,34,Bachelors
+CUST02722,South,Low,27,Bachelors
+CUST02723,North,Low,28,Masters
+CUST02724,West,Low,64,Masters
+CUST02725,South,Low,41,High School
+CUST02726,West,Low,36,PhD
+CUST02727,West,Medium,61,High School
+CUST02728,North,Medium,33,High School
+CUST02729,West,High,40,Bachelors
+CUST02730,West,Low,73,Masters
+CUST02731,North,High,29,High School
+CUST02732,West,Medium,71,PhD
+CUST02733,South,Medium,71,High School
+CUST02734,South,Medium,36,Bachelors
+CUST02735,East,Medium,42,High School
+CUST02736,East,Low,20,Masters
+CUST02737,East,Medium,30,Masters
+CUST02738,East,Medium,38,PhD
+CUST02739,West,High,39,High School
+CUST02740,South,High,64,Masters
+CUST02741,East,Medium,46,High School
+CUST02742,West,Medium,66,High School
+CUST02743,North,High,60,Masters
+CUST02744,South,High,42,Masters
+CUST02745,North,Medium,40,Bachelors
+CUST02746,East,Medium,29,Bachelors
+CUST02747,East,Low,66,PhD
+CUST02748,East,Medium,71,PhD
+CUST02749,South,Low,40,PhD
+CUST02750,North,Medium,22,High School
+CUST02751,North,Medium,46,PhD
+CUST02752,South,Low,22,Masters
+CUST02753,East,Low,56,PhD
+CUST02754,East,High,52,High School
+CUST02755,West,Medium,52,Bachelors
+CUST02756,South,Medium,34,High School
+CUST02757,North,Medium,47,Masters
+CUST02758,West,High,73,PhD
+CUST02759,North,Low,19,PhD
+CUST02760,North,Medium,32,Masters
+CUST02761,West,Medium,68,PhD
+CUST02762,North,High,40,Bachelors
+CUST02763,West,Low,59,High School
+CUST02764,West,High,43,High School
+CUST02765,West,Low,28,Masters
+CUST02766,East,Low,41,Bachelors
+CUST02767,East,Low,26,Masters
+CUST02768,South,Medium,31,Masters
+CUST02769,South,Medium,41,Bachelors
+CUST02770,West,Medium,24,Masters
+CUST02771,South,Low,27,High School
+CUST02772,East,Medium,50,PhD
+CUST02773,East,Medium,50,High School
+CUST02774,West,Medium,63,PhD
+CUST02775,East,Medium,44,PhD
+CUST02776,West,High,25,High School
+CUST02777,South,Medium,31,Masters
+CUST02778,East,Low,24,Bachelors
+CUST02779,West,Low,35,PhD
+CUST02780,West,Low,74,Bachelors
+CUST02781,North,Medium,43,Bachelors
+CUST02782,West,High,72,PhD
+CUST02783,West,Medium,58,Bachelors
+CUST02784,East,Low,32,Bachelors
+CUST02785,North,Medium,50,Masters
+CUST02786,North,Medium,28,Bachelors
+CUST02787,North,High,36,High School
+CUST02788,East,Low,59,PhD
+CUST02789,South,Medium,35,Masters
+CUST02790,West,High,39,High School
+CUST02791,North,High,53,Bachelors
+CUST02792,North,Low,35,Bachelors
+CUST02793,East,Low,35,High School
+CUST02794,East,Medium,39,High School
+CUST02795,North,High,42,Masters
+CUST02796,South,Low,71,Bachelors
+CUST02797,East,High,69,Bachelors
+CUST02798,North,Low,61,Bachelors
+CUST02799,South,Medium,48,High School
+CUST02800,East,Medium,26,Bachelors
+CUST02801,South,Low,67,PhD
+CUST02802,North,Low,55,PhD
+CUST02803,South,Medium,72,Masters
+CUST02804,North,Medium,36,Masters
+CUST02805,East,Low,69,High School
+CUST02806,West,Medium,72,PhD
+CUST02807,West,Medium,42,High School
+CUST02808,North,Medium,32,Masters
+CUST02809,West,High,22,High School
+CUST02810,North,Medium,28,High School
+CUST02811,West,Medium,30,Bachelors
+CUST02812,West,Medium,51,Masters
+CUST02813,East,Medium,25,Bachelors
+CUST02814,North,Low,42,Masters
+CUST02815,South,High,44,Bachelors
+CUST02816,East,Low,28,Masters
+CUST02817,South,Medium,35,Masters
+CUST02818,East,Medium,27,PhD
+CUST02819,North,Low,50,Masters
+CUST02820,South,Low,53,High School
+CUST02821,East,Low,34,PhD
+CUST02822,West,Low,66,Bachelors
+CUST02823,South,High,22,High School
+CUST02824,East,High,40,High School
+CUST02825,East,Low,20,Masters
+CUST02826,South,Low,56,Masters
+CUST02827,West,High,54,High School
+CUST02828,South,Low,27,PhD
+CUST02829,South,High,44,High School
+CUST02830,South,Low,73,High School
+CUST02831,East,Medium,24,Masters
+CUST02832,West,Medium,66,Masters
+CUST02833,South,Low,46,Masters
+CUST02834,South,Low,66,Bachelors
+CUST02835,South,Medium,56,High School
+CUST02836,South,Low,23,High School
+CUST02837,South,Medium,26,Bachelors
+CUST02838,South,Low,25,High School
+CUST02839,West,Medium,31,High School
+CUST02840,West,Medium,71,High School
+CUST02841,West,Medium,55,PhD
+CUST02842,North,Low,26,Bachelors
+CUST02843,North,Medium,69,Bachelors
+CUST02844,East,Medium,74,High School
+CUST02845,West,High,28,Masters
+CUST02846,West,Medium,28,High School
+CUST02847,West,Low,57,High School
+CUST02848,South,Low,52,PhD
+CUST02849,South,Low,28,PhD
+CUST02850,East,Low,53,Masters
+CUST02851,West,Low,72,PhD
+CUST02852,South,Low,20,High School
+CUST02853,West,Low,62,High School
+CUST02854,West,Low,36,PhD
+CUST02855,South,Low,25,PhD
+CUST02856,South,Low,70,Bachelors
+CUST02857,North,Low,45,High School
+CUST02858,South,Medium,70,Masters
+CUST02859,North,Low,73,PhD
+CUST02860,South,Low,71,PhD
+CUST02861,West,Low,70,Bachelors
+CUST02862,South,Medium,18,Bachelors
+CUST02863,East,Medium,70,PhD
+CUST02864,West,Low,57,Masters
+CUST02865,East,Medium,47,Masters
+CUST02866,West,Medium,58,PhD
+CUST02867,South,Medium,55,Bachelors
+CUST02868,South,High,28,High School
+CUST02869,South,High,46,High School
+CUST02870,North,Low,48,Bachelors
+CUST02871,South,Low,27,High School
+CUST02872,East,Medium,52,Bachelors
+CUST02873,North,High,57,Masters
+CUST02874,South,Medium,46,High School
+CUST02875,North,Low,54,PhD
+CUST02876,North,Low,19,PhD
+CUST02877,West,Medium,65,High School
+CUST02878,North,Medium,18,PhD
+CUST02879,North,Medium,49,Bachelors
+CUST02880,West,Medium,41,Bachelors
+CUST02881,South,Low,19,PhD
+CUST02882,East,High,20,High School
+CUST02883,North,High,26,High School
+CUST02884,East,Medium,66,High School
+CUST02885,North,Medium,41,Masters
+CUST02886,East,Medium,29,High School
+CUST02887,West,Low,51,High School
+CUST02888,North,Low,73,Bachelors
+CUST02889,North,Low,51,Masters
+CUST02890,South,High,40,Bachelors
+CUST02891,South,Low,36,PhD
+CUST02892,North,Low,69,PhD
+CUST02893,West,Medium,49,High School
+CUST02894,East,Low,66,Masters
+CUST02895,South,Low,45,PhD
+CUST02896,South,Medium,43,High School
+CUST02897,South,Medium,66,Masters
+CUST02898,South,Medium,62,PhD
+CUST02899,West,Medium,29,PhD
+CUST02900,North,Medium,60,Masters
+CUST02901,East,Medium,48,Masters
+CUST02902,South,Medium,28,Masters
+CUST02903,West,Low,73,Masters
+CUST02904,West,Medium,57,PhD
+CUST02905,South,Low,67,Masters
+CUST02906,East,Low,21,Bachelors
+CUST02907,South,Low,35,Bachelors
+CUST02908,West,Low,46,PhD
+CUST02909,East,Medium,64,PhD
+CUST02910,West,Medium,73,High School
+CUST02911,North,Low,56,PhD
+CUST02912,West,High,72,Masters
+CUST02913,South,Medium,64,Masters
+CUST02914,East,High,48,PhD
+CUST02915,South,Medium,68,Bachelors
+CUST02916,North,Low,45,High School
+CUST02917,East,High,44,PhD
+CUST02918,East,High,70,PhD
+CUST02919,East,Medium,47,High School
+CUST02920,West,Low,66,Bachelors
+CUST02921,South,Low,59,PhD
+CUST02922,East,Medium,28,Bachelors
+CUST02923,East,Low,31,Masters
+CUST02924,East,Medium,21,Bachelors
+CUST02925,North,Medium,53,Masters
+CUST02926,East,Low,18,High School
+CUST02927,West,Medium,61,PhD
+CUST02928,West,Medium,56,Masters
+CUST02929,East,Low,54,Bachelors
+CUST02930,West,Medium,50,PhD
+CUST02931,West,Medium,38,Masters
+CUST02932,East,Medium,41,Masters
+CUST02933,West,Medium,57,Bachelors
+CUST02934,North,Medium,67,Masters
+CUST02935,East,Low,30,High School
+CUST02936,South,High,66,Masters
+CUST02937,West,Medium,51,Bachelors
+CUST02938,East,Low,55,PhD
+CUST02939,South,Medium,46,Bachelors
+CUST02940,North,Medium,70,Bachelors
+CUST02941,North,Low,53,PhD
+CUST02942,East,High,57,Masters
+CUST02943,East,Low,64,High School
+CUST02944,North,Medium,22,Bachelors
+CUST02945,North,Medium,37,Bachelors
+CUST02946,North,Low,46,High School
+CUST02947,South,Medium,28,Bachelors
+CUST02948,South,Medium,25,PhD
+CUST02949,East,Medium,45,Masters
+CUST02950,South,Medium,66,PhD
+CUST02951,West,High,58,Bachelors
+CUST02952,North,Low,35,PhD
+CUST02953,East,Medium,47,Bachelors
+CUST02954,South,High,31,Masters
+CUST02955,East,Low,73,PhD
+CUST02956,South,Low,26,PhD
+CUST02957,East,High,27,High School
+CUST02958,North,High,73,High School
+CUST02959,North,Medium,42,Bachelors
+CUST02960,North,Medium,69,PhD
+CUST02961,South,Medium,44,Masters
+CUST02962,East,Low,19,Masters
+CUST02963,East,Medium,20,High School
+CUST02964,East,Medium,46,High School
+CUST02965,West,Low,73,High School
+CUST02966,South,Medium,54,Masters
+CUST02967,North,Medium,44,Masters
+CUST02968,North,Medium,21,Masters
+CUST02969,East,Medium,52,Bachelors
+CUST02970,East,High,44,PhD
+CUST02971,West,Low,36,Bachelors
+CUST02972,South,Medium,27,PhD
+CUST02973,East,Medium,43,PhD
+CUST02974,East,Low,24,PhD
+CUST02975,South,Low,44,High School
+CUST02976,East,Medium,47,PhD
+CUST02977,North,Medium,29,High School
+CUST02978,South,High,57,PhD
+CUST02979,North,Medium,22,Bachelors
+CUST02980,West,Low,73,Bachelors
+CUST02981,East,Medium,30,PhD
+CUST02982,East,Medium,58,Bachelors
+CUST02983,South,Medium,21,Bachelors
+CUST02984,West,High,19,PhD
+CUST02985,South,Medium,54,PhD
+CUST02986,West,Low,51,High School
+CUST02987,South,Low,67,Bachelors
+CUST02988,South,Medium,23,Bachelors
+CUST02989,East,Low,43,PhD
+CUST02990,East,Medium,28,Masters
+CUST02991,West,Medium,59,High School
+CUST02992,North,Medium,18,High School
+CUST02993,North,Medium,51,Masters
+CUST02994,South,Medium,38,High School
+CUST02995,East,Low,27,High School
+CUST02996,South,Medium,22,Bachelors
+CUST02997,West,Medium,43,Bachelors
+CUST02998,South,Medium,61,PhD
+CUST02999,South,Low,36,PhD
